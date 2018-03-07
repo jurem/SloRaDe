@@ -5,6 +5,6 @@
  - [Iskra Delta 1680](racunalniki/iskra-delta-triglav.md)
 
 # Gorenje
- - Gorenje Dialog
+ - [Gorenje Dialog](racunalniki/gorenje-dialog.md)
 
 # Ostalo
