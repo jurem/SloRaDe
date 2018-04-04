@@ -1,5 +1,3 @@
-relative_permalinks: true
-
 plugins:
   - jekyll-remote-theme
   
