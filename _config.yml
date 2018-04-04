@@ -1,5 +1,5 @@
 plugins:
   - jekyll-remote-theme
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: janczizikow/sleek
 relative_permalinks: false
