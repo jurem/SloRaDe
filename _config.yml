@@ -1,2 +1,5 @@
-remote_theme: artemsheludko/adam-blog
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: mmistakes/minimal-mistakes
 relative_permalinks: false
