@@ -1,3 +1,7 @@
-relative_permalinks: false
+relative_permalinks: true
 
+plugins:
+  - jekyll-remote-theme
+  
+remote_theme: janczizikow/sleek
 theme: jekyll-theme-minimal
