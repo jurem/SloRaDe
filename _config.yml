@@ -1,2 +1,4 @@
 remote_theme: artemsheludko/adam-blog
 relative_permalinks: false
+
+theme: jekyll-theme-minimal
