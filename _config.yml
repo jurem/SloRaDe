@@ -1,5 +1,5 @@
 url:https://bostjanhren.github.io/SloRaDe
-plugins: 
- - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
  
- remote-theme: janczizikow/sleek
+remote_theme: janczizikow/sleek
