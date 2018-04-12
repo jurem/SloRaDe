@@ -2,7 +2,6 @@
 layout: page
 title: Racunalniki
 lang: en 
-permalink: /en/racunalniki/
 ---
 
 # Iskra Delta
