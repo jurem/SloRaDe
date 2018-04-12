@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Racunalniki
+lang: si
 permalink: /racunalniki/
 ---
 
