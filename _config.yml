@@ -1,4 +1,18 @@
 plugins:
   - jekyll-remote-theme
  
-remote_theme: janczizikow/sleek
+remote_theme: janczizikow/sleek 
+
+defaults:
+    #languages
+    -
+        scope:
+            path: ""
+        values:
+            land: "si"
+            layout: default
+    -
+        scope:
+            path: "en"
+        values:
+            lang: "en"

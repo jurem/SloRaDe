@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Racunalniki
-permalink: /racunalniki/
+lang: en 
 ---
-
 # Iskra Delta
  - [Iskra Delta 800](racunalniki/iskra-delta-800.md)
  - [Iskra Delta Partner](racunalniki/iskra-delta-partner.md)

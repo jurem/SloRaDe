@@ -1,1 +1,7 @@
-# English index page
+---
+layout: default
+title: Slovenska Računalniška Dediščina
+lang: en
+---
+
+
