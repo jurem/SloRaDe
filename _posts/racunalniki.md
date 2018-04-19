@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Racunalniki"
-featured-img: Iskra_Dela_Triglav_2007.jpg
+featured-img: Iskra_Dela_Triglav_2007
 ---
 
 # Iskra Delta
