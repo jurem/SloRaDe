@@ -1,6 +1,10 @@
 ---
-title: Racunalniki
 lang: en 
+layout: post
+title: "Racunalniki"
+featured-img: Iskra_Dela_Triglav_2007
+---
+
 ---
 # Iskra Delta
  - [Iskra Delta 800](racunalniki/iskra-delta-800.md)
