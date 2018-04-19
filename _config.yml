@@ -16,3 +16,6 @@ defaults:
             path: "en"
         values:
             lang: "en"
+
+include: ['_pages']
+permalink: /:title/
