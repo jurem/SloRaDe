@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Racunalniki"
+featured-img: Iskra_Dela_Triglav_2007.jpg
+---
+
 # Iskra Delta
  - [Iskra Delta 800](racunalniki/iskra-delta-800.md)
  - [Iskra Delta Partner](racunalniki/iskra-delta-partner.md)
