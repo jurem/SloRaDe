@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Racunalniki
+title: Computers
 permalink: /en/racunalniki/
 ---
 
