@@ -1,7 +1,7 @@
 ---
 lang: en 
 layout: post
-title: "Racunalniki"
+title: "Computers"
 featured-img: Iskra_Dela_Triglav_2007
 ---
 
