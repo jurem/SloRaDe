@@ -2,7 +2,8 @@
 lang: en 
 layout: post
 title: "Computers"
-featured-img: Iskra_Dela_Triglav_2007
+summary: Slovenian computers.
+featured-img: Triglav2007
 ---
 
 ---
