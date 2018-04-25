@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Racunalniki"
-featured-img: Iskra_Dela_Triglav_2007
+featured-img: Triglav2007
+summary: Slovenski računalniki.
 ---
 
 # Iskra Delta
