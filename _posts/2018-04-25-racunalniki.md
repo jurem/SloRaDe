@@ -3,6 +3,7 @@ layout: post
 title: "Racunalniki"
 featured-img: Triglav2007
 summary: Slovenski računalniki.
+categories: slo-post
 ---
 
 # Iskra Delta
