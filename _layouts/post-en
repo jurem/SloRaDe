@@ -16,7 +16,7 @@ layout: compress
 
 {% endif %}
 
-{% include slo-header.html %}
+{% include header.html %}
 
   {% if page.featured-img %}
 
