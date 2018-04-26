@@ -1,6 +1,6 @@
 ---
 lang: en 
-layout: post
+layout: post-en
 title: "Computers"
 summary: Slovenian computers.
 featured-img: Triglav2007
