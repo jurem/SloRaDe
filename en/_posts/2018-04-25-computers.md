@@ -4,6 +4,7 @@ layout: post
 title: "Computers"
 summary: Slovenian computers.
 featured-img: Triglav2007
+categories: en-post
 ---
 
 ---
