@@ -19,3 +19,4 @@ defaults:
 
 include: ['_pages']
 permalink: /:title/
+category-list: [slo-page]
