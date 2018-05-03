@@ -46,6 +46,13 @@ layout: compress
 
   <main class="site__content">
     <div class="container">
+      
+      <ul>
+        {% for page in page.categories.slo-page %}
+                <li><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+      
       <article class="post-content" itemprop="articleBody">
 
         {{ content }}
