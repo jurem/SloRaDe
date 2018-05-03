@@ -47,11 +47,20 @@ layout: compress
   <main class="site__content">
     <div class="container">
       
-      <ul>
-        {% for page in page.categories.slo-page %}
-                <li><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></li>
-        {% endfor %}
-      </ul>
+      {% for cat in site.category-list %}
+        ### {{ cat }}
+        <ul>
+          {% for page in site.pages %}
+            {% if page.resource == true %}
+              {% for pc in page.categories %}
+                {% if pc == cat %}
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                {% endif %}   <!-- cat-match-p -->
+              {% endfor %}  <!-- page-category -->
+            {% endif %}   <!-- resource-p -->
+          {% endfor %}  <!-- page -->
+        </ul>
+      {% endfor %}  <!-- cat -->
       
       <article class="post-content" itemprop="articleBody">
 
