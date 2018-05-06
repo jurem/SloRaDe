@@ -53,7 +53,7 @@ layout: compress
             {% if page.resource == true %}
               {% for pc in page.categories %}
                 {% if pc == "slo-page" %}
-                  <li><a href="SloRaDe{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
                 {% endif %}   <!-- cat-match-p -->
               {% endfor %}  <!-- page-category -->
             {% endif %}   <!-- resource-p -->
