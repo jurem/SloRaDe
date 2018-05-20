@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ID 800"
-permalink: "/racunalniki/iskra-delta-800/" 
+permalink: "/iskra-delta-800/" 
 ---
 
 # Iskra Delta 800
