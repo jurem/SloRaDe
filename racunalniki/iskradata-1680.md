@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Iskradata 1680"
-permalink: "/racunalniki/iskradata-1680" 
 ---
 
 
