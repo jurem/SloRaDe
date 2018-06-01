@@ -6,6 +6,21 @@ title: "Iskradata 1680"
 
 # Iskradata 1680
 
+<img style="float: right;" src="{{site.url}}/SloRaDe/assets/img/ID1680/idata1680_1.jpg">
+
+<br>
+ - 1977-1984
+ - Procesor Motorola 6800
+ - 48kB RAM pomnilnik
+ - 16kB ROM pomnilnik
+ - Modularna zgradba, ki omogoča poljubne konfiguracije
+
+<br>
+
+------
+
+<br>
+
 IskraData 1680, ali krajše ID 1680, je računalniški sistem, ki ga je leta 1977 razvilo podjetje Iskra TOZD Računalniki Kranj in ga proizvajalo do leta 1984. Njegova raba je bila predvidena za poslovne, laboratorijske in izobraževalne namene, najbolj pogosto pa se je uporabljal za avtomatizacijo procesov, zaradi zmožnosti izvajanja operacij v realnem času. 
 
 Mikroračunalnik ID 1680 je temeljil na družni 8-bitnih mikroprocesorjev Motorola 6800 in modularni zgradbi sistema. Procesor je bil, tako kot tudi pomnilnik in ostale komponente, priklopljen na skupno sistemsko vodilo, na katerega so bili speljani signali posameznih modulov. Ker moduli niso imeli lastnih fizičnih naslovov, je bilo mesto prikopa teh popolnoma poljubno, naslovni prostor pa nastavljiv s stikali in povezavami. 
