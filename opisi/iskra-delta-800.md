@@ -5,7 +5,7 @@ title: "ID 800"
 
 # Iskra Delta 800
 
-<img style="float: right;" src="{{site.base}}/assets/img/ID800/id800_1.jpg">
+<img style="float: right;" src="{{site.url}}/assets/img/ID800/id800_1.jpg">
 
 <br>
 
