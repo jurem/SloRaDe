@@ -5,6 +5,24 @@ title: "ID 800"
 
 # Iskra Delta 800
 
+<img style="float: right;" src="{{site.base}}/assets/img/ID800/id800_1.jpg">
+
+<br>
+
+ - 1970-1990
+ - 4.5Mhz Procesor J11
+ - Do 4MB RAM pomnilnika
+ - 4KB ROM pomnilnik
+ - Operacijski sistem Delta/M
+ - RS232
+
+<br>
+<br>	
+
+------
+
+<br>
+
 Iskra Delta 800 je paralelni binarni 16-bitni računalniški sistem splošne namembnosti. Razvit je bil na osnovi takrat popularnega miniračunalnika PDP-11, proizvajanega med leti 1970 do 1990 s strani ameriškega podjetja DEC (Digital Equipment Corporation). 
 
 Uporabljal je procesor J11, katerega povprečni čas ukaznega cikla je bil 225ns. Vseboval je 8 16-bitnih registrov, ki so vključevali programski števec in kazalec na sklad, na katerem se je zapisala vsebina registrov od preklopu med opravili. Procesor je razlikoval 8 prioritetnih nivojev izvajanja programov in opravila izvajal v uporabniškem ali privilegiranem načinu. V privilegiranem načinu so se lahko izvajali vsi ukazi, ta način so uporabljali monitorji in super nadzorni programi. V uporabniškem načinu so bile onemogočene menjave programov iz privilegiranega načina in ustavljanje procesorja, omejena pa je bila tudi rezervacija pomnilnika.
@@ -18,3 +36,7 @@ Z ločenim pomnilniškim vodilom je bil procesor povezan z glavnim pomnilnikom. 
 Za hitrejši ponovni dostop do pogosto izvajanih ukazov, so se deli glavnega pomnilnika prepisovali v hitrejši ROM medpomnilnik velikosti 2KB (nekje piše naj bi imel 4KB)
 
 Izkoriščanje uporabljenih komponent je omogčal operacijski sistem DELTA/M, povezava z zunanjimi komponentami pa je bila možna preko vodila RS232
+
+
+
+ - [Nazaj na pregled računalnikov]({{site.base}}/racunalniki)

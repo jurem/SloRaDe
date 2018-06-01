@@ -1,1 +1,0 @@
-# Iskra Delta 800
