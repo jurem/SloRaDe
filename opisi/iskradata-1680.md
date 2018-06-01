@@ -34,3 +34,7 @@ Kot vhodno/izhodne naprave so bili dodani moduli: nadzorna plošča, modem hitro
 ROM pomnilnik je hranil osnovne rezidenčne programe ID 1680, ki so bili potrebni za delovanje. Vsebovali so monitorske programe, linijski urejevalnik besedil, mikro zbirnik, prevajalnik za programski jezik BASIC, razhroščevalnik in še kaj, kar je bilo dovolj za učinkovito komunikacijo s perifernimi napravami kot so video prikazovalniki, teleprinterji in podobno. Uporabo dodatnih enot z gibljivimi diski pa je omogočal Iskrin diskovni operacijski istem IDOS.
 
 S pomočjo programatorja je uporablnik lahko na pomnilniško vezje trdno zapisal poljubne programe in jih uporabil v svojem sistemu s preprostim vstavljanjem pomnilniškega vezja v sistem.
+
+
+
+ - [Nazaj na pregled računalnikov]({{site.base}}/racunalniki)

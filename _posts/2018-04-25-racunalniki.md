@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Racunalniki"
+title: "Računalniki"
 featured-img: Triglav2007
 summary: Slovenski računalniki.
 categories: slo-post
 ---
 
 # Iskra Delta
+
  - [Iskra Delta 800](../opisi/iskra-delta-800)
  - [Iskradata 80](../opisi/iskradata-80)
  - [Iskra Delta Partner](../opisi/iskra-delta-partner)
@@ -14,6 +15,7 @@ categories: slo-post
  - [Iskradata 1680](../opisi/iskradata-1680)
 
 # Gorenje
- - [Gorenje Dialog](racunalniki/gorenje-dialog.md)
+
+ - [Gorenje Dialog](../opisi/gorenje-dialog)
 
 # Ostalo
