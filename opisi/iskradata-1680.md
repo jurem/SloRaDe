@@ -37,4 +37,4 @@ S pomočjo programatorja je uporablnik lahko na pomnilniško vezje trdno zapisal
 
 
 
- - [Nazaj na pregled računalnikov]({{site.base}}/racunalniki)
+ - [Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)
