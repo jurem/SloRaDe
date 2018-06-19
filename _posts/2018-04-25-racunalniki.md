@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Računalniki"
-featured-img: Triglav2007
+featured-img: racunalniki
 summary: Slovenski računalniki.
 categories: slo-post
 ---
