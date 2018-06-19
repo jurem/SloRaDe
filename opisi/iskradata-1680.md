@@ -6,7 +6,7 @@ title: "Iskradata 1680"
 
 # Iskradata 1680
 
-<img style="float: right; height: 30%;" src="{{site.url}}/SloRaDe/assets/img/ID1680/idata1680_1.jpg" >
+<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/ID1680/idata1680_1.jpg" >
 
 <br>
  - 1977-1984
