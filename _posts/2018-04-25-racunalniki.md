@@ -17,5 +17,7 @@ categories: slo-post
 # Gorenje
 
  - [Gorenje Dialog](../opisi/gorenje-dialog)
+ 
+ - [Terminal Paka 2000](../opisi/paka-2000)
 
 # Ostalo
