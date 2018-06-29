@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Zgodovinski pregled"
+title: "Slovenska podjetja in začetki Delte"
 featured-img: zgodovina
 summary: Zgodovinski pregled računalništva na področju Slovenije
 categories: slo-post
-permalink: /zgodovina/slovenska_podjetja_in_zacetki_Delte/
 ---
 
 # Slovenska podjetja in začetki Delte
