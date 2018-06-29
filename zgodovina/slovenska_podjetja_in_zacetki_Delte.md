@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Gorenje Dialog"
-categories: slo-page
 ---
 
 # Slovenska podjetja in začetki Delte
