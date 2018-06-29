@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ID 800"
+featured-img: id800
 ---
 
 # Iskra Delta 800
@@ -39,4 +40,4 @@ Izkoriščanje uporabljenih komponent je omogčal operacijski sistem DELTA/M, po
 
 
 
- - [Nazaj na pregled računalnikov]({{site.base}}/racunalniki)
+ - [Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)

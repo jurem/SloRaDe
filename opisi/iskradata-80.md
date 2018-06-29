@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Iskradata 80"
+featured-img: id80
 ---
 
 # Iskradata 80
 
-<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/id80_1.jpg" >
+<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/id80/id80_naslov.jpg" >
 
 <br>
 
