@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Slovenska podjetja in začetki Delte"
-featured-img: zgodovina
-summary: Zgodovinski pregled računalništva na področju Slovenije
-categories: slo-post
+title: "Gorenje Dialog"
+categories: slo-page
 ---
 
 # Slovenska podjetja in začetki Delte
