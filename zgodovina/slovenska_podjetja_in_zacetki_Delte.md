@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Slovenska podjetja in začetki Delte"
 featured-img: zgodovina
 summary: Zgodovinski pregled računalništva na področju Slovenije
