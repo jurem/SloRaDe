@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Iskradata 1680"
+foto: "../ID1680/1680sejem.jpg"
 ---
 
 
