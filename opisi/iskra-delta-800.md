@@ -39,5 +39,13 @@ Za hitrejši ponovni dostop do pogosto izvajanih ukazov, so se deli glavnega pom
 Izkoriščanje uporabljenih komponent je omogčal operacijski sistem DELTA/M, povezava z zunanjimi komponentami pa je bila možna preko vodila RS232
 
 
+------
 
- - [Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)
+Viri:
+
+ - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1984](https://drive.google.com/drive/u/1/folders/1OMyc91sh_xfEMRsIvhhqpfmahhB0Mnyc)
+ - [PDP-11 Arhitektura](https://en.wikipedia.org/wiki/PDP-11_architecture)
+
+------
+
+[Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)

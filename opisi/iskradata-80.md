@@ -36,3 +36,16 @@ Iskradata 80, ali krajše ID80, je distribuirani računalniški sistem, ki ga je
 Distribuirana obdelava je omogočala dostop do baze podatkov v drugem računalniku v omrežju. Možna je bila uporaba enega samega samostojnega računalnika, z uporabo komunikacijskega modula pa tudi do 16 računalnikov skupaj, povezanih kot delovna mesta. Delovne enote so bile povezane preko vodila RS-232, ter med seboj komunicirale po sinhronih ali asinhronih protokolih, ki so omogočali tudi kontolo prenosa.
 
 Uporabljal je operacijski sistem IDOS ali CP/M in delal s programskima jezikoma Basic in Pascal. Matični računalnik je lahko bral do 4 diskovne enote, do velikosti 300MB.
+
+
+------
+
+Viri:
+
+ - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1981](https://www.dlib.si/stream/URN:NBN:SI:DOC-TMJKSE6N/f2ea158f-a358-4cd4-a9a7-2fa2b84115b0/PDF)
+ - [Portal Slotech, Kiberpipa, 2008](https://slo-tech.com/novice/t334280)
+
+------
+
+[Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)
+

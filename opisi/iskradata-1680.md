@@ -36,5 +36,12 @@ ROM pomnilnik je hranil osnovne rezidenčne programe ID 1680, ki so bili potrebn
 S pomočjo programatorja je uporablnik lahko na pomnilniško vezje trdno zapisal poljubne programe in jih uporabil v svojem sistemu s preprostim vstavljanjem pomnilniškega vezja v sistem.
 
 
+------
+
+Viri: 
+ - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1978](http://muzej.famnit.upr.si/sl/resources/files/eksponati/iskradata-1680/9-5-pb.pdf)
+ - [Wikipedia](https://hr.wikipedia.org/wiki/Iskradata_1680)
+
+------
 
  - [Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)
