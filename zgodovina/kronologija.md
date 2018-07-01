@@ -37,3 +37,7 @@ kontrolnim centrom v Novi Gorici
 Po letu 1986 – razkroj podjetja Iskra Delte
 - 1987 – otvoritev razvojno-proizvodnega centra Iskre Delte
 - 1990 – stečaj Iskre Delte
+
+
+
+[Nazaj na pregled zgodovine]({{site.base}}/SloRaDe/zgodovina)
