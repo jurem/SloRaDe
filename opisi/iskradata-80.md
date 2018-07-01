@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Iskradata 80"
-foto: "id80_znacka.JPG"
+foto: "../id80/id80_znacka.JPG"
 ---
 
 # Iskradata 80
