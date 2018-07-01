@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ID 800"
-featured-img: id800
+foto: "id800"
 ---
 
 # Iskra Delta 800
