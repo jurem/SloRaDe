@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Slovenska podjetja in začetki Delte"
+featured-img: delta
 categories: slo-page
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Kronologija"
 featured-img: kronologija
-summary: Kronologija začetkov slovenskega računalništva.
+summary: Kronologija dogodkov slovenskega računalništva.
 categories: slo-post
 ---
 
