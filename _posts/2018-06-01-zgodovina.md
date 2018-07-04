@@ -2,7 +2,7 @@
 layout: post
 title: "Zgodovinski pregled"
 featured-img: zgodovina
-summary: Zgodovinski pregled računalništva na področju Slovenije
+summary: Na teh podstraneh podajamo zgodovinski pregled razvoja računalništva na področju Slovenije. Pregled je sestavljen iz več krajših člankov, v katerih opišemo naše razumevanje področja. Sestavili smo tudi nekaj seznamov kot je npr. kronologija dogodkov, primeri uporabe tehnologije ipd.
 categories: slo-post
 ---
 
