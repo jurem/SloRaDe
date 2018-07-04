@@ -2,9 +2,11 @@
 layout: post
 title: "Slovenski računalniki"
 featured-img: racunalniki
-summary: Na teh podstraneh najdete opise računalnikov, ki so jih načrtovali in izdelovali na Slovenskih tleh. Opisi so dokaj splošni z nekaj slikami, vsebujejo pa lahko tudi tehnične podrobnosti, ki so zanimive predvsem za računalnikarje.
+summary: Tukaj najdete kratke opise računalnikov, ki so jih načrtovali in izdelovali na Slovenskih tleh.
 categories: slo-post
 ---
+
+V spodnjem seznamu se nahaja nekaj opisov slovenskih računalnikov. Vsebujejo nekaj splošnih informacij in tudi slik ter ostalih virov. So pa opis pogosto opremljeni tudi s tehničnimi podrobnostmi, ki so zanimive predvsem za računalnikarje.
 
 # Iskra Delta
 
