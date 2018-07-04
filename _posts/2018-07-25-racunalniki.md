@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Računalniki"
+title: "Slovenski računalniki"
 featured-img: racunalniki
-summary: Slovenski računalniki.
+summary: Na teh podstraneh najdete opise računalnikov, ki so jih načrtovali in izdelovali na Slovenskih tleh. Opisi so dokaj splošni z nekaj slikami, vsebujejo pa lahko tudi tehnične podrobnosti, ki so zanimive predvsem za računalnikarje.
 categories: slo-post
 ---
 
@@ -17,7 +17,6 @@ categories: slo-post
 # Gorenje
 
  - [Gorenje Dialog](../opisi/gorenje-dialog)
- 
  - [Terminal Paka 2000](../opisi/paka-2000)
 
 # Ostalo
