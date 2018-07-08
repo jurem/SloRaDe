@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 title: "Examples of computer use"
 foto: primeri.jpg

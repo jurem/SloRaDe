@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 title: "Kopa"
 foto: kopa.jpg

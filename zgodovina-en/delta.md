@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 title: "Delta"
 foto: delta.jpg

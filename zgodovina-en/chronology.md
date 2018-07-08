@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 title: "Chronology"
 featured-img: kronologija

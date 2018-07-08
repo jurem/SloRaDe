@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 title: "First Days of Delta"
 foto: delta.jpg
