@@ -7,7 +7,7 @@ categories: en-post
 ---
 
 
-#CHRONOLOGY – SLOVENE COMPUTER HERITAGE
+# CHRONOLOGY – SLOVENE COMPUTER HERITAGE
 
  - 1972 – in Elektrotehna, a state-run company specialised in selling electrotechnical products to
 Yugoslav companies, the computer sales and repairs department is renamed to DIGITAL

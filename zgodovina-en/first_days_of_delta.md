@@ -5,7 +5,8 @@ foto: delta.jpg
 categories: en-page
 ---
 
-### Slovene Companies and the First Days of Delta
+# First Days of Delta
+
 When the information revolution began shaping the world, the list of the most important
 agents involved included companies such as IBM, DEC, Apple, Commodore, Sinclair, and
 Microsoft. Slovenia (at the time a part of Yugoslavia), however, was home to Iskra Delta, a
