@@ -11,16 +11,10 @@
 	{% if page.lang == "en" %}
           <a class="header__link" href="{{ '/' | relative_url }}" itemprop="url"><span itemprop="name">Home</span></a>
           <a class="header__link" href="{{ '/about' | relative_url }}" itemprop="url"><span itemprop="name">About</span></a>
-          <a class="header__link" href="{{ '/kontakt' | relative_url }}" itemprop="url">
-            <span itemprop="name">Kontakt</span>
-          </a>
           <a class="header__link" href="{{ '/' | relative_url }}" itemprop=="url"><span itemprop="name">Slovenščina</span></a>
     {% else %}
     <a class="header__link" href="{{ '/' | relative_url }}" itemprop="url"><span itemprop="name">Domov</span></a>
           <a class="header__link" href="{{ '/about' | relative_url }}" itemprop="url"><span itemprop="name">O projektu</span></a>
-          <a class="header__link" href="{{ '/kontakt' | relative_url }}" itemprop="url">
-              <span itemprop="name">Kontakt</span>
-          </a>
           <a class="header__link" href="{{ '/zahvale' | relative_url }}" itemprop="url"><span itemprop="name">Zahvale</span></a>
           <a class="header__link" href="{{ '/en' | relative_url }}" itemprop=="url"><span itemprop="name">English</span></a>
 	{% endif %}        
