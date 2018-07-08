@@ -5,7 +5,7 @@ foto: primeri.jpg
 categories: en-page
 ---
 
-# EXAMPLES OF COMPUTER USE
+# Examples of computer use
 Due to Iskra Delta’s success the only data available to us is that of the use of Delta’s
 computers. The text mostly features applications and software that could have been uploaded
 on almost any DELTA system computer. Singled out are the uses of the PARTNER,
@@ -42,8 +42,11 @@ different processes, interactive learning and teacher-student communication,
 independent work on computers, and regular and objective assessment of students.
 They also enable the automatization of school management – keeping records of
 teachers and students, forming timetables, and automatically displaying student
-performance
-### TRIGLAV (TRIDENT)
+performance.
+
+<br>
+
+### Iskra Delta Triglav (Trident)
 - Management of production, automatization of processes, robotization
 - Workplace for graphical projection, business system for multiple users,
 communication unit
@@ -52,11 +55,16 @@ automatization of electric energy production, transfer and distribution
 - Refinery management, heating and plumbing network management, road and railway
 traffic control, energy consumption control, security and control of facilities (hotels,
 airports …)
-### PARTNER
+
+<br>
+### Iskra Delta Partner
 - TISKTIP programme for writing, correcting, and designing texts. Intended mostly for
 redaction, printing works, offices, and editorial and publishing houses
 - MIPOS business applications package (bookkeeping, keeping records of buyers and
 suppliers, issuing invoices, and warehouse management)
+
+<br>
+
 ### ISKRADATA 1680
 - General and special business applications, banking applications, financial
 bookkeeping, personal income accounting, issuing invoices

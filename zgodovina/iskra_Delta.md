@@ -1,38 +1,32 @@
 ---
 layout: page
-title: "Začetki Delte"
+title: "Iskra Delta"
 foto: delta.jpg
 categories: slo-page
 ---
 
-# Slovenska podjetja in začetki Delte
+# Iskra Delta
 
-Če so bila v svetu računalništva v začetku računalniške revolucije najbolj priznana podjetja IBM, DEC, Apple, Commodore, Sinclair in nato tudi Microsoft, se je v Sloveniji oziroma v bivši Jugoslaviji z njimi merila Iskra Delta, računalnike in terminale pa so izdelovali še Tovarna meril, Gorenje, ki je leta 1980 izdelal računalnik Gorenje Dialog in KOPA, ki leta 1982 izdela računalnik KOPA 2500. 
 
-A še pred Iskro Delto je v sedemdesetih letih v Jugoslaviji delovalo veliko državno podjetje Elektrotehna, specializirano za prodajo elektrotehničnih izdelkov podjetjem v Jugoslaviji. V tistem času se je Elektrotehna povezala z ameriškim podjetjem DEC (Digital Equipment Corporation) z namenom, da bi po Jugoslaviji prodajali računalnike. 
-Oddelek Elektrotehne se zato takrat preimenuje v Digital in prodaja računalnike za vodenje procesov v industriji ter na razvojnih inštitutih, nato pa še naprave za upravljanje poslovnih procesov. V 1977 je oddelek prerasel v samostojno specializirano računalniško podjetje Delta, ki je bilo takrat še vedno pod okvirom Elektrotehne. 
-Tudi Delta je imela podpisano pogodbo z DEC-om in od njih je dobivala le najnujnejše dele, medtem ko so komponente za električno napajanje, hlajenje, ohišje in aplikativne programske dele računalnika proizvajali sami. Ker so bili v Delti zaposleni izobraženi in izkušeni delavci, ki so prihajali iz Oddelka za računalništvo in informatiko Fakultete za elektrotehniko, Oddelka za digitalno tehniko Instituta Jožefa Stefana in Oddelka za zastopanje tujih firm v slovenskem trgovskem podjetju Elektrotehna, se je Delta zelo hitro razvijala in leta 1977 že izdelala svoj prvi računalnik, ki so ga poimenovali kar Delta 340.
+Pred Iskro Delto je v sedemdesetih letih v Jugoslaviji delovalo veliko državno podjetje Elektrotehna, v katerem je nastal oddelek, ki je prodajal računalnike za vodenje procesov in naprave za upravljanje poslovnih procesov. V 1977 je oddelek prerasel v samostojno specializirano računalniško podjetje Delta.
+V letu 1978 se je Delta izključila iz Elektrotehne in se začela povezovati z Iskro in Gorenjem
+v podjetje, imenovano Iskra Delta. Zaradi novo prihajajočih kadrov iz Iskre se je podjetje
+hitro razvijalo, proizvajalo in je tako kmalu imelo lastne prodajno-servisne centre po celotni
+Jugoslaviji. Njihova uspešnost je temeljila na njihovem prizadevanju, da se čim tesneje
+povežejo z uporabniki njihovih računalnikov. Podjetje se je z iznajdljivostjo kmalu uveljavilo
+v Jugoslaviji in po svetu, kjer je sodelovalo z Veliko Britanijo, ZDA, Indijo, Avstrijo in tudi s
+Kitajsko, kjer so 10 policijskih postaj največjih kitajskih mest računalniško povezali. Politična
+trenja in ekstremne ekonomske razmere v Jugoslaviji v koncu osemdesetih let prejšnjega
+stoletja pa so, kljub dolgemu seznamu uspehov podjetja, pripeljale do presenetljivega in še
+vedno ne povsem pojasnjenega propada Iskre Delte.
 
-### Uveljavljanje Delte v Jugoslaviji
-Računalnik je bil izdelan po lastni zasnovi in konfiguraciji. Od podjetja DEC je bil v
-računalniku le procesor PDP in operacijski software, ostale enote pa so bile narejene v Delti
-ali pa kupljene s strani ostalih svetovnih dobaviteljev. Lastna aplikativna programska oprema
-in domače elektronske rešitve, ki so omogočale delovanje računalnika, so omogočile Delti, da
-za računalnik ni bilo potrebno kupiti licenčnih dajatev, kar je bilo nujno pri izdelavi prejšnjih
-računalnikov. Kljub temu je bil Delta 340 kompatibilen z DEC-ovimi računalniki. Deltovci so
-bili zdaj pred težjo nalogo – računalnik prodati in se tako poskušati uveljaviti kot podjetje, ki
-izdeluje računalnike, v celoti izdelane v Jugoslaviji. Zato so v letu 1978 naredili ogromno
-marketinško potezo in računalnik podarili Titu za njegov rojstni dan. Za računalnik so izdelali
-program, ki je Titu, ko je računalnik prejel, začel predvajati Jugoslovansko himno, hkrati pa
-se je na ekranu prikazal Titov portret. S tem so Deltovci poželi uspeh in Titovo naklonjenost,
-ki jim je v kasnejših mesecih reševala njihov obstoj. Kmalu po tem, še v istem letu, se je Delta
-izključila iz Elektrotehne in se začela povezovati z Iskro in Gorenjem v podjetje, imenovano
-Iskra Delta. Zaradi novo prihajajočih kadrov iz Iskre se je podjetje hitro razvijalo, proizvajalo
+### Uveljavljanje podjetja Iskra Delta
+
+Zaradi novo prihajajočih kadrov iz Iskre se je podjetje hitro razvijalo, proizvajalo
 in je tako kmalu imelo lastne prodajno-servisne centre po celotni Jugoslaviji. Njihova
 uspešnost je temeljila na njihovem prizadevanju, da se čim tesneje povežejo z uporabniki
 njihovih računalnikov.
 
-### Uveljavljanje v svetu
 Že v letu 1980 je Iskra Delta ustanovila predstavništvo v New Yorku in navezovala stike z
 ameriškimi dobavitelji ter bila tako seznanjena z najnovejšimi razvojnimi dosežki v Silicijevi
 dolini. Izdelali so nova računalnika, Partner in Triglav (za internacionalne kupce Trident), leta
@@ -159,6 +153,21 @@ dejavnikov, naš glavni vir za opis njenega propada pa predstavlja pričevanje n
 direktorja Janeza Škrubeja. A verjetno poglavitni razlog za njen razkroj ostajajo napetosti na
 domačem terenu, dejstvo, da ni imela pomoči vlade, in še posebej, da je zaradi svojih
 nenadejanih uspehov prestavljala preveliko tveganje za lastno vlado in tuje politične akterje.
+
+
+### Dodatno
+O tem, kaj se je dogajalo v Iskri Delti v času hladne vojne in kako so izvedli največji projekt
+podjetja za Kitajsko, je v podcastu Frekvenca X na Valu 202 pripovedoval tudi takratni
+direktor podjetja Janez Škrubej.
+https://val202.rtvslo.si/2016/02/frekvenca-x-27/
+
+V drugem delu podcasta so se Škrubeju pridružili še nekdanji uslužbenec Iskre Delte Andrej
+Grebenc, predsednik Sveta za elektronske komunikacije Dušan Caf, in inženir računalništva
+Damjan Žemva. Skupaj so pokomentirali, zakaj je prišlo do nenadnega propada podjetja v
+nikoli povsem pojasnjenih okoliščinah.
+https://val202.rtvslo.si/2016/06/frekvenca-x-40/
+
+Slika 3: logotip podjetja Iskra Delta (IDC – Iskra Delta Computers).
 
 ------
 [Nazaj na pregled zgodovine]({{site.base}}/SloRaDe/zgodovina)

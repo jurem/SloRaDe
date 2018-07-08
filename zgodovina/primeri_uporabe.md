@@ -5,7 +5,7 @@ foto: primeri.jpg
 categories: slo-page
 ---
 
-# PRIMERI UPORABE RAČUNALNIKOV
+# Primeri uporabe računalnikov
 
 Zaradi uspešnosti Iskra Delte so nam na voljo le podatki, za kaj so se uporabljali Deltini računalniki. V
 tekstu so omenjene predvsem aplikacije in programska oprema, ki jo je bilo možno naložiti na skoraj
@@ -37,21 +37,30 @@ programa (področje gradbeništva, kemije, strojništva, kmetijstva). Omogoča s
 procesov, interaktivno učenje in komuniciranje učitelj- učene, samostojno delo učence na
 računalnikih, sprotno ocenjevanje učencev na objektivnih osnovah. Uporaba tudi za
 avtomatizacijo šolskega poslovanja – evidence učiteljev in učencev, izdelava urnikov,
-avtomatsko izpisovanje učnih uspehov
-### TRIGLAV
+avtomatsko izpisovanje učnih uspehov.
+
+<br>
+
+### Iskra Delta Triglav
 - vodenje proizvodnje, avtomatizacija procesov, robotizacija, grafično delovno mesto za
 projektiranje, večuporabniški poslovni sistemi, komunikacijska enota, avtomatizacija
 kemijskih procesov, avtomatizacija energetskih postaj, proizvodnji, prenosu in distribuciji
 električne energije, upravljanju rafinerij, toplovodnih in vodovodnih omrežij, nadzoru
 cestnega in železniškega prometa, nadzoru porabe energije, varovanju in nadzoru objektov
 (hoteli, letališča …)
-### PARTNER
+
+<br>
+
+### Iskra Delta Partner
 - program TISKTIP za pisanje, popravljanje in oblikovanje tekstov, prenos besedila v stavni
 sistem. Namenjen predvsem za delo v tiskarnah, redakcijah, pisarnah, v uredniških in
 založniških hišah
 
 - Paket poslovnih aplikacij MIPOS (področja glavne knjige, saldakontov kupcev in dobaviteljev,
 področje prodaje s fakturiranje in skladiščno poslovanje
+
+<br>
+
 ### ISKRADATA 1680
 - Splošne in posebne poslovne aplikacije, bančne aplikacije, finančno knjigovodstvo, obračun
 osebnih dohodkov, fakturiranje
