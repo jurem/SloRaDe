@@ -27,7 +27,7 @@ marketinško potezo in računalnik podarili Titu za njegov rojstni dan. Za raču
 program, ki je Titu, ko je računalnik prejel, začel predvajati Jugoslovansko himno, hkrati pa
 se je na ekranu prikazal Titov portret. S tem so Deltovci poželi uspeh in Titovo naklonjenost,
 ki jim je v kasnejših mesecih reševala njihov obstoj. Kmalu po tem, še v istem letu, se je Delta
-izključila iz Elektrotehne in se začela povezovati z Iskro in Gorenjem v podjetje, imenovano
-Iskra Delta. 
+izključila iz Elektrotehne in se začela povezovati z Iskro in [Gorenjem](../gorenje) v podjetje, imenovano
+[Iskra Delta](../iskra_Delta). 
 
 #### Slika 2: Delta računalniški sistemi

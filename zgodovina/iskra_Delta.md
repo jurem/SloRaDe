@@ -8,8 +8,8 @@ categories: slo-page
 # Iskra Delta
 
 
-Pred Iskro Delto je v sedemdesetih letih v Jugoslaviji delovalo veliko državno podjetje Elektrotehna, v katerem je nastal oddelek, ki je prodajal računalnike za vodenje procesov in naprave za upravljanje poslovnih procesov. V 1977 je oddelek prerasel v samostojno specializirano računalniško podjetje Delta.
-V letu 1978 se je Delta izključila iz Elektrotehne in se začela povezovati z Iskro in Gorenjem
+Pred Iskro Delto je v sedemdesetih letih v Jugoslaviji delovalo veliko državno podjetje [Elektrotehna](../elektrotehna), v katerem je nastal oddelek, ki je prodajal računalnike za vodenje procesov in naprave za upravljanje poslovnih procesov. V 1977 je oddelek prerasel v samostojno specializirano računalniško podjetje [Delta](../delta).
+V letu 1978 se je Delta izključila iz Elektrotehne in se začela povezovati z Iskro in [Gorenjem](../gorenje)
 v podjetje, imenovano Iskra Delta. Zaradi novo prihajajočih kadrov iz Iskre se je podjetje
 hitro razvijalo, proizvajalo in je tako kmalu imelo lastne prodajno-servisne centre po celotni
 Jugoslaviji. Njihova uspešnost je temeljila na njihovem prizadevanju, da se čim tesneje
@@ -36,8 +36,7 @@ Planici, smučarska tekmovanja v Kranjski gori in Mariboru ter Zimska Univerzija
 Čehoslovaškem. Njihovo sodelovanje je pomenilo popolno informacijsko podporo, evidenco
 sodelujočih ter zbiranje in distribucijo rezultatov na različnih lokacijah.
 
-#### Slika 1: Fotografija z Zimske univerzijade na Češkoslovaškem, na kateri je opazen reklamni
-balon z logotipom Iskra Delta Computers.
+#### Slika 1: Fotografija z Zimske univerzijade na Češkoslovaškem, na kateri je opazen reklamni balon z logotipom Iskra Delta Computers.
 
 V času delovanju so svoje izdelke vestno predstavljali na Interbiro sejmih v Ljubljani in
 Zagrebu ter s tem privabljali tudi veliko tujih strank. Prav na sejmu leta 1984 so bili nad
@@ -51,9 +50,9 @@ kitajskih obveščevalnih služb.
 
 #### Slika 2: Razstavni prostor Iskre Delta na sejmu Interbiro.
 Konec leta 1986 se je Iskra Delta lahko pohvalila z dolgim seznamom proizvodov in uspešnih
-projektov, med katere spadajo računalniki Paka, Partner in Triglav, ki je bil pod imenom
+projektov, med katere spadajo računalniki Paka, [Partner](../../opisi/iskra-delta-partner) in [Triglav](../../opisi/iskra-delta-triglav), ki je bil pod imenom
 Trident na mednarodnem sejmu v nemškem Leipzigu izbran za najboljši računalnik v odprti
-konkurenci z Zahoda, Vzhoda in Daljnega vzhoda; programska oprema in sistemi Delta 800,
+konkurenci z Zahoda, Vzhoda in Daljnega vzhoda; programska oprema in sistemi [Delta 800](../../opisi/iskra-delta-800),
 PDP 11, Delta 8000, Gemini in IDA; projekt LAN, Projekt komunikacij, projekt DIPS 85 in
 Projekt aplikativnih branž. Vsi ti uspehi in dejstvo, da majhno podjetje obvladuje tehnologijo,
 ki se jih je v takrat dalo dobiti le s strani ZDA, navdušijo tudi vodstvo Republike Indije, ki
