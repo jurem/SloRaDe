@@ -12,8 +12,8 @@ foto: "../ID1680/1680sejem.jpg"
 <br>
  - 1977-1984
  - Procesor Motorola 6800
- - 48kB RAM pomnilnik
- - 16kB ROM pomnilnik
+ - 48 kB RAM pomnilnik
+ - 16 kB ROM pomnilnik
  - Modularna zgradba, ki omogoča poljubne konfiguracije
 
 <br>
@@ -46,8 +46,9 @@ S pomočjo programatorja je uporablnik lahko na pomnilniško vezje trdno zapisal
 ------
 
 Viri: 
- - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1978](http://muzej.famnit.upr.si/sl/resources/files/eksponati/iskradata-1680/9-5-pb.pdf)
+ - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, št. 4, stran 9-10, 1978](http://muzej.famnit.upr.si/sl/resources/files/eksponati/iskradata-1680/9-5-pb.pdf)
  - [Wikipedia](https://hr.wikipedia.org/wiki/Iskradata_1680)
+ - Janez Kožuh
 
 ------
 

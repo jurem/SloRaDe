@@ -52,6 +52,7 @@ Viri:
 
  - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1981](https://www.dlib.si/stream/URN:NBN:SI:DOC-TMJKSE6N/f2ea158f-a358-4cd4-a9a7-2fa2b84115b0/PDF)
  - [Portal Slotech, Kiberpipa, 2008](https://slo-tech.com/novice/t334280)
+ - Janez Kožuh
 
 ------
 

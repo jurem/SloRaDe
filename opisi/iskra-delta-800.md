@@ -11,11 +11,11 @@ foto: "id800.jpg"
 <br>
 
  - 1970-1990
- - 4.5Mhz Procesor J11
- - Do 4MB RAM pomnilnika
- - 4KB ROM pomnilnik
+ - 4.5 MHz Procesor J11
+ - Do 4 MB RAM pomnilnika
+ - 4 KB ROM pomnilnik
  - Operacijski sistem Delta/M
- - RS232
+ - RS232 vmesnik
 
 <br>
 <br>
@@ -36,7 +36,7 @@ Z ločenim pomnilniškim vodilom je bil procesor povezan z glavnim pomnilnikom. 
 
 Za hitrejši ponovni dostop do pogosto izvajanih ukazov, so se deli glavnega pomnilnika prepisovali v hitrejši ROM medpomnilnik velikosti 2KB (nekje piše naj bi imel 4KB)
 
-Izkoriščanje uporabljenih komponent je omogčal operacijski sistem DELTA/M, povezava z zunanjimi komponentami pa je bila možna preko vodila RS232
+Izkoriščanje uporabljenih komponent je omogčal operacijski sistem DELTA/M, povezava z zunanjimi komponentami pa je bila možna preko vmesnika RS232
 
 
 ------
@@ -45,6 +45,7 @@ Viri:
 
  - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1984](https://drive.google.com/drive/u/1/folders/1OMyc91sh_xfEMRsIvhhqpfmahhB0Mnyc)
  - [PDP-11 Arhitektura](https://en.wikipedia.org/wiki/PDP-11_architecture)
+ - Janez Kožuh
 
 ------
 
