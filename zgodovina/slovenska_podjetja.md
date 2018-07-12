@@ -1,9 +1,9 @@
-layout: post
-title: "Slovenska podjetja in začetki Delte"
-featured-img: zgodovina
-summary: V obliki več krajših člankov predstavimo zgodovinski pregled razvoja računalništva na področju Slovenije.
-categories: slo-post
-
+---
+layout: page
+title: "Primeri uporabe računalnikov"
+foto: primeri.jpg
+categories: slo-page
+---
 # Slovenska podjetja in začetki Delte
 
 Če so bila v svetu računalništva v začetku računalniške revolucije najbolj priznana podjetja

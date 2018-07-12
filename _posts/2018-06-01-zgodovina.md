@@ -10,7 +10,9 @@ categories: slo-post
 
 Ko pomislimo na stare računalnike, si verjetno zamislimo ogromne naprave, ki zasedajo celotne sobe, so brez kakršnihkoli monitorjev, porabijo veliko energije, so vredne celo premoženje, zmožne pa so opraviti le nekaj preprostih nalog. Taki stroji so se začeli pojavljati okrog leta 1950, z desetletji pa so se računalniki manjšali in znali opravljati vedno več funkcij. Za prvi osebni računalnik večina ljudi šteje IBM-ov model 5150 iz leta 1981, ki je bil namizne velikosti, z ekranom in tipkovnico ter cenovno prijazen potrošnikom. Prav v letih od 1970 do 1980 pa so se tudi v Sloveniji začeli razvijati tovarne oziroma podjetja, ki so stremela k proizvodnji uporabnih računalnikov. V tem kratkem zgodovinskem okvirju bomo povzeli glavne prelomnice slovenskega prispevka k svetovni računalniški dediščini.
 
-Če so bila v svetu računalništva v začetku računalniške revolucije najbolj priznana podjetja IBM, DEC, Apple, Commodore, Sinclair in nato tudi Microsoft, se je v Sloveniji oziroma v bivši Jugoslaviji z njimi merila Iskra Delta, računalnike in terminale pa so izdelovali še Tovarna meril, Gorenje, ki je leta 1980 izdelal računalnik Gorenje Dialog in KOPA, ki leta 1982 izdela računalnik KOPA 2500. 
+Če so bila v svetu računalništva v začetku računalniške revolucije najbolj priznana podjetja IBM, DEC, Apple, Commodore, Sinclair in nato tudi Microsoft, se je v Sloveniji oziroma v bivši Jugoslaviji z njimi merila Iskra Delta, računalnike in terminale pa so izdelovali še Tovarna meril, Gorenje, ki je leta 1980 izdelal računalnik Gorenje Dialog in KOPA, ki leta 1982 izdela računalnik KOPA 2500.
+
+ - [Slovenska podjetja in začetki Delte](../zgodovina/slovenska_podjetja)
 
 -----
 <br>
