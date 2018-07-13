@@ -4,6 +4,7 @@ title: "Primeri uporabe računalnikov"
 foto: primeri.jpg
 categories: slo-page
 ---
+
 # Slovenska podjetja in začetki Delte
 
 Če so bila v svetu računalništva v začetku računalniške revolucije najbolj priznana podjetja
