@@ -13,6 +13,8 @@ Ko pomislimo na stare računalnike, si verjetno zamislimo ogromne naprave, ki za
 Če so bila v svetu računalništva v začetku računalniške revolucije najbolj priznana podjetja IBM, DEC, Apple, Commodore, Sinclair in nato tudi Microsoft, se je v Sloveniji oziroma v bivši Jugoslaviji z njimi merila Iskra Delta, računalnike in terminale pa so izdelovali še Tovarna meril, Gorenje, ki je leta 1980 izdelal računalnik Gorenje Dialog in KOPA, ki leta 1982 izdela računalnik KOPA 2500.
 
  - [Slovenska podjetja in začetki Delte](../zgodovina/slovenska_podjetja)
+ - [Uveljavljanje Delte v Jugoslaviji](../zgodovina/uveljavljanje_delte_v_jugoslaviji)
+ - [Uveljavljanje Delte v svetu](../zgodovina/uveljavljanje_delte_v_svetu)
 
 -----
 <br>
