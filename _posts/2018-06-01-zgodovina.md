@@ -17,7 +17,7 @@ Ko pomislimo na stare računalnike, si verjetno zamislimo ogromne naprave, ki za
  - [Uveljavljanje Delte v svetu](../zgodovina/uveljavljanje_delte_v_svetu)
  - [Zahod levo, Vzhod desno in Iskra Delta vmes](../zgodovina/zahod_levo_vzhod_desno_in_iskra_delta_vmes)
  - [Propad Iskre Delte](../zgodovina/propad_iskre_delte)
- - [Zaključek](../zgodovina/Zaključek)
+ - [Zaključek](../zgodovina/zakljucek)
 
 -----
 <br>
