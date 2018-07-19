@@ -23,3 +23,5 @@ V spodnjem seznamu se nahaja nekaj opisov slovenskih računalnikov. Vsebujejo ne
  - [Terminal Paka 3000](../opisi/paka-3000)
 
 # Ostalo
+
+ - [Prototip procesne enote D8000](../opisi/D8000)
