@@ -1,0 +1,68 @@
+---
+layout: page
+title: "Terminal Paka 3000"
+---
+
+# Paka 3000
+
+<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/Paka/paka3000.jpg">
+
+<br>
+
+ - 1985
+ - mikroprocesor Intel 8085
+ - možnost grafičnega procesorja
+ - možnost tiskalnika
+ - uporaba svetlobnega peresa
+
+<br>
+
+
+------
+
+<br>
+
+Paka 3000 je terminal izdelan leta 1985. Ustvarjen je bil pri Gorenju, oglaševalo pa ga je podjetje Iskra Delta.
+Med drugim se je uporabljal v železarnah Jesenice in Štore.
+
+Terminal je sestavljen iz napajalne enote, zaslona, logične kartice KLT-T in povezovalnih kartic. Vsi omenjeni deli,
+tipkovnica, računalnik in tiskalnik so povezani prek povezovalnih kartic. Logična kartica je uporabljala
+mikroprocesor Intel 8085. Za prikaz slike so uporabljali vezja AVDC(Advanced Video Display Controller) in CMAC
+(Color Monchrome Attribiite Controller) podjetja Signetics.
+Iz Pake 2000 se je ohranilo shranjevanje nastavitev terminala v pomnilniku tudi po izklopu le tega.
+Paka 3000 je preko posebne logike in povezave prek KLT-T omogočala uporabo svetlobnega peresa, ki se je uporabljalo za
+določanje položaja na zaslonu. Ta možnost se je uporabljala v nekaterih IBM-ovih terminalih in industrijskih aplikacijah.
+Z uporabo dvosmernega 8-bitnega paralelnega vmesnika je bila možna priključitev grafičnega procesorja. Tako lahko dobimo
+združeni video izhod iz znakovnega in grafičnega dela terminala.
+
+Nastavitve zaslona in modularnost razvite programske opreme omogočata lažjo emulacijo drugih terminalov. Za razvoj te
+programske opreme se uporablja monitorski program, ki je vgrajen v KLT-T. Vhodno izhodna enota monitorskega programa je
+povezovalni terminal, ki je hkrati terminal računalnikov na katerih kreiramo izvorne programe. Prek povezovalnega
+terminala KLT-T prejme kodo programa in ga naloženega v poseben pomnilnik testira.
+
+Bolj natančne sheme, opisi in specifikacije Paka 3000 so na voljo v prvem izvodu revije [Informatica](https://www.dlib.si/stream/URN:NBN:SI:DOC-CUZZTRTY/939e2643-262e-421f-8553-3b7853e2982a/PDF) iz leta 1985 na
+straneh 20 - 26.
+
+Za PAKA 3000 so leta 1985 Konrad Steblovnik, Iztok Gabrovec, Vojko Lončarič, Andrej Križnik, Boris Krofl in Milena Jan
+dobili nagrado za iznajde in tehnične izboljšave, ki jih je podeljeval Sklad Borisa Kidriča.
+Dve leti kasneje so isto nagrado prejeli za PAKA 5000 Konrad Steblovnik, Iztok Gabrovec, Bogo Romih, Vojko Lončarič,
+Jože Steblovnik, Franc Peršak in Vinko Žagavec.
+
+Obstajajo tudi terminali 3090 in 3100 a o njih nimamo veliko informacij.
+
+
+
+
+------
+
+Viri: 
+
+https://www.dlib.si/stream/URN:NBN:SI:DOC-CUZZTRTY/939e2643-262e-421f-8553-3b7853e2982a/PDF 22.06.2018
+https://www.dlib.si/stream/URN:NBN:SI:DOC-M0L8HU2R/e3cbbe83-31db-4d3a-8aa3-b2a8e171b69e/PDF 22.06.2018
+http://kiberpipin.racunalniski-muzej.si/?page_id=256 22.06.2018
+https://sl.wikipedia.org/wiki/Nagrada_za_iznajdbe_in_tehni%C4%8Dne_izbolj%C5%A1ave#1980 18.06.2018
+http://www.saleskibiografskileksikon.si/index.php?action=view&tag=260 22.06.2018
+
+------
+
+ - [Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)
