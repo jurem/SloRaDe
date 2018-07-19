@@ -20,5 +20,6 @@ V spodnjem seznamu se nahaja nekaj opisov slovenskih računalnikov. Vsebujejo ne
 
  - [Gorenje Dialog](../opisi/gorenje-dialog)
  - [Terminal Paka 2000](../opisi/paka-2000)
+ - [Terminal Paka 3000](../opisi/paka-3000)
 
 # Ostalo
