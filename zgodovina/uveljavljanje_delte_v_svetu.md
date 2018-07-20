@@ -43,8 +43,8 @@ leta 1988 v Jugoslavijo pošlje državno delegacijo s predsednikom Rajivom Gandh
 čelu. Tudi z njimi se Iskra Delta uspešno dogovori za sodelovanje in ustanovitev mešanega
 podjetja v Indiji.
 
-![slika 3](../assets/img/zgodovina/image3.png)
+![slika 3](../assets/img/zgodovina/image3.jpeg)
 Slika 3: Reklamna fotografija za računalnik Partner.
 
-![slika 4](../assets/img/zgodovina/image4.png)
+![slika 4](../assets/img/zgodovina/image4.jpeg)
 Slika 4: Računalnik Triglav (Trident).
