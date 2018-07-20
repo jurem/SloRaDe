@@ -29,6 +29,9 @@ Jugoslaviji, ki je ti dve državi tudi povezal. Vseeno pa je prišlo pri uresni�
 določenih zapletov. Sodelovanje Jugoslavije s Kitajsko je pritegnilo pozornost vzhodnih in
 kitajskih obveščevalnih služb.
 
+![slika 2](../assets/img/zgodovina/image2.png)
+Slika 2: Razstavni prostor Iskre Delta na sejmu Interbiro.
+
 Konec leta 1986 se je Iskra Delta lahko pohvalila z dolgim seznamom proizvodov in uspešnih
 projektov, med katere spadajo računalniki Paka, Partner in Triglav, ki je bil pod imenom
 Trident na mednarodnem sejmu v nemškem Leipzigu izbran za najboljši računalnik v odprti
@@ -39,3 +42,9 @@ ki se jih je v takrat dalo dobiti le s strani ZDA, navdušijo tudi vodstvo Repub
 leta 1988 v Jugoslavijo pošlje državno delegacijo s predsednikom Rajivom Gandhijem na
 čelu. Tudi z njimi se Iskra Delta uspešno dogovori za sodelovanje in ustanovitev mešanega
 podjetja v Indiji.
+
+![slika 3](../assets/img/zgodovina/image3.png)
+Slika 3: Reklamna fotografija za računalnik Partner.
+
+![slika 4](../assets/img/zgodovina/image4.png)
+Slika 4: Računalnik Triglav (Trident).

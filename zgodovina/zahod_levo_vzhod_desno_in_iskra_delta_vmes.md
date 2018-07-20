@@ -45,3 +45,6 @@ pomenilo izjemno otežitev pridobivanja plačil s strani vzhodnih kupcev, tudi z
 opremo. Ker Iskra Delta tega ne stori, začnejo sovjetski kupci spremenjene predpise
 uporabljati kot izgovor, da že dobavljenih računalnikov ne plačajo v dogovorjenem roku, to
 pa povzroči začetek nepremostljivih finančnih ovir za podjetje.
+
+![slika 5](../assets/img/zgodovina/image5.png)
+Slika 5: Fotografija predstavništva Iskre Delta in Mihail Gorbačov, ki si je prišel ogledat Deltine računalnike.
