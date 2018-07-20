@@ -47,4 +47,5 @@ podjetja v Indiji.
 Slika 3: Reklamna fotografija za računalnik Partner.
 
 ![slika 4](../assets/img/zgodovina/image4.jpeg)
+<br>
 Slika 4: Računalnik Triglav (Trident).
