@@ -23,6 +23,7 @@ Zahoda na Vzhod, čemur je bila podvržena tudi Iskra Delta, saj je bila v sodel
 ameriškimi proizvajalci in za potrebe proizvodnje uporabljala tudi s strani ZDA dobljene
 komponente.
 
+
 Sovjetska zveza je ravno v Iskra Delti videla rešitev za svoj tehnološki zaostanek za ZDA, saj
 je podjetje proizvajalo tehnologijo, ki je se lahko kosala tudi z ameriško. Tako se je Iskra
 Delta znašla v navzkrižnem ognju med obema poloma Hladne vojne, saj so jo pozorno
@@ -32,6 +33,7 @@ na vsak način preprečiti, da bi napredna tehnologija prišla v roke agentov so
 obveščevalne službe KGB, saj bi to lahko pomenilo podaljšanje Hladne vojne in ponovno rast
 napetosti med svetovnima silama. Že sam obstoj podjetja v tem času torej za ZDA predstavlja
 preveliko tveganje.
+
 
 Marca 1988 sovjetska delegacija na čelu s predsednikom Gorbačovom obišče Slovenijo, da bi
 si ogledala sposobnosti Iskre in njenih podjetij, posebno Iskre Delte. Tudi njih so predstavitve
@@ -46,6 +48,7 @@ pomenilo izjemno otežitev pridobivanja plačil s strani vzhodnih kupcev, tudi z
 opremo. Ker Iskra Delta tega ne stori, začnejo sovjetski kupci spremenjene predpise
 uporabljati kot izgovor, da že dobavljenih računalnikov ne plačajo v dogovorjenem roku, to
 pa povzroči začetek nepremostljivih finančnih ovir za podjetje.
+
 
 ![slika 5](../assets/img/zgodovina/image5.png)
 Slika 5: Fotografija predstavništva Iskre Delta in Mihail Gorbačov, ki si je prišel ogledat Deltine računalnike.
