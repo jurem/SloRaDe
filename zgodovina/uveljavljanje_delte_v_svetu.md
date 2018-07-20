@@ -16,6 +16,8 @@ Planici, smučarska tekmovanja v Kranjski gori in Mariboru ter Zimska Univerzija
 Čehoslovaškem. Njihovo sodelovanje je pomenilo popolno informacijsko podporo, evidenco
 sodelujočih ter zbiranje in distribucijo rezultatov na različnih lokacijah.
 
+![slika 1](../assets/img/zgodovina/image1.png)
+Slika 1: Fotografija z Zimske univerzijade na Češkoslovaškem, na kateri je opazen reklamni balon z logotipom Iskra Delta Computers.
 
 V času delovanju so svoje izdelke vestno predstavljali na Interbiro sejmih v Ljubljani in
 Zagrebu ter s tem privabljali tudi veliko tujih strank. Prav na sejmu leta 1984 so bili nad
