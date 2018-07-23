@@ -12,8 +12,8 @@ categories: slo-post
 
 
 
-	__Kakšen je bil vaš začetek v slovenski računalniški idustriji, pri katerem podjetju ste bili zaposleni
-	in kakšna je bila vaša vloga?__
+	**Kakšen je bil vaš začetek v slovenski računalniški idustriji, pri katerem podjetju ste bili zaposleni
+	in kakšna je bila vaša vloga?**
 
 Gimnazijo sem zaključil leta 1978 ter postal štipendist pri Kranjskem Iskra Elektromehanika in se odločil
 za študij na Fakulteti za elektrotehniko v Ljubljani.
@@ -31,7 +31,7 @@ To orodje so uporabljali na Iskra Telematika, kjer je potekala proizvodnja telef
 
 Diplomiral sem leta 1983 in se zaposlil v Iskrinem oddelku za razvoj mikroračunalnikov v Kranju.
 
-	__Na čem ste delali po zaposlitvi?__
+	**Na čem ste delali po zaposlitvi?**
 
 Zvone Duplančič je bil vodja projekta za emulacijo IBM terminala. Pred odhodom v vojsko sem mu pomagal s prikazom
 informacij na zaslonu. Problem je bil namreč v tem, da so imeli IBM-ovi terminali drugačne zaslone od ostalih terminalov,
@@ -44,8 +44,8 @@ Ameriko na izobraževanje.
 Leta 1984 in 1985 smo delali z Unix operacijskim sistemom. Ekipa se je v tem času zanimala predvsem za pisanje
 gonilnikov za Linux.
 
-	__Vaša magistrska naloga je bila povezana z računalnikom Triglav, kako ste bili povezani z razvojem tega
-	računalnika?__
+	**Vaša magistrska naloga je bila povezana z računalnikom Triglav, kako ste bili povezani z razvojem tega
+	računalnika?**
 
 Moj prvi projekt v zvezi s Triglavom je bil komercialen. Leta 1985 so v sosednjem oddelku delali na grafični
 kartici za Triglav, ki je bil že barvni računalnik. Naša naloga je bila priskrbeti programe, ki bi pokazali zmogljivosti
@@ -63,7 +63,7 @@ drugo ekipo, ki je bila zadolžena za strojno opremo. Strojno opremo so sestavlj
 in razvili so koncept pametnega SCSI kontrolerja. Razvoj je potekal 2 leti. Leta 1988 je nastal večji del moje
 magistrske naloge, ki bolj natančno opisuje naš projekt.
 
-	__Nam lahko poveste še kaj o pametnem SCSI kontrolerju?__
+	**Nam lahko poveste še kaj o pametnem SCSI kontrolerju?**
 
 Sprva smo ga nameravali programirati v programskem jeziku C a smo ugotovili da je koda napisana v assembly
 dvakrat hitrejša.
@@ -90,12 +90,12 @@ naprav smo se na delo vozili v Celovec, kjer smo imeli na voljo te naprave in ta
 Izdelek se je stabiliziral z Unix operacijskim sistemom na procesorju Motorola 68020. Žal se je kmalu v letu 1989 začel
 zaton podjetja in s tem se je razvoj in proizvodnja končala.
 
-	__Ali se je ohranilo kaj strojne ali programske opreme po zaključku, ko je bilo jasno da ne bo prišlo do proizvodnje?__
+	**Ali se je ohranilo kaj strojne ali programske opreme po zaključku, ko je bilo jasno da ne bo prišlo do proizvodnje?**
 
 Namen je bil tak. Programsko opremo smo shranili na diske in popisali kaj vse imamo, da bi lahko komu prišlo prav.
 Kasneje sem izvedel da so bili po stečaju diski prodani, vsebina pa je bila izgubljena saj so jih formatirali.
 
-	__Vaši ekipi sta razvijali nekaj novega. So bile izkušnje dovolj ali ste se morali še dodatno izobraževati?__
+	**Vaši ekipi sta razvijali nekaj novega. So bile izkušnje dovolj ali ste se morali še dodatno izobraževati?**
 
 Iskra Delta je v tem času organizirala poletna šolanja. Ravno v času, ko smo začeli z razvojem SCSI kontrolerja,
 je potekalo šolanje v Dubrovniku. Šlo je za predavanja na katera so bili povabljeni profesorji Jugoslovanskega
@@ -107,7 +107,7 @@ Kot sem omenil že prej so nas pošiljali na izobraževanja tudi v ekipah in pos
 delili znanje z drugimi zaposlenimi.
 V Novi Gorici smo organizirali tudi izobraževanja za kupce naših izdelkov.
 
-	__Kaj se je dogajalo z vašo ekipo in vami ob zatonu Iskre Delte?__
+	**Kaj se je dogajalo z vašo ekipo in vami ob zatonu Iskre Delte?**
 
 Direktor razvoja na komunikacijskem oddelku nam je razložil okoliščine in začeli smo iskati možne rešitve.
 Ekipa za strojno opremo je naredila skice za masovno proizvodnjo in tudi na sejmih smo navduševali.
@@ -125,7 +125,7 @@ Danes je to podjetje znano kot NiceLabel.
 
 Kasneje sem šel tudi v Nemčijo, kjer sem delal na Siemens-ovih programih.
 
-	__Kakšen je vaš pogled na Iskro sedaj? Kje jo vidite v primerjavi z ostalimi podjetji po svetu?__
+	**Kakšen je vaš pogled na Iskro sedaj? Kje jo vidite v primerjavi z ostalimi podjetji po svetu?**
 
 Če primerjam Iskro z podjetji Billa Gatesa in Steva Jobsa bi rekel da smo bili z razvojem le eden ali dva meseca za njimi.
 Naši najboljši ljudje so bili na enakem nivoju kot tisti drugje po svetu. Le kot primer bi dal študenta, ki je na
@@ -137,7 +137,7 @@ demonstrazije za Jugoslovansko vojsko, kjer smo Ljubljano, Banjaluko in Vrhniko 
 karto, ki je v realnem času prikazovala situacijo na terenu.
 Na tem področju je znano tudi to da smo na Kitajsko prodali celotno omrežje.
 
-	__Iskra je sodelovala tudi na raznih športnih prireditvah, nam lahko poveste kaj več o tem?__
+	**Iskra je sodelovala tudi na raznih športnih prireditvah, nam lahko poveste kaj več o tem?**
 
 V Kranju se je z obdelavo športnih prireditev ukvarjal Božo Oman, še ena ekipa je delala v Ljubljani. Šlo je za prikazovanje
 štartnih mest, rezultatov in podobnega na zaslonih med potekom prireditev za televizijo. To storitev so potrebovali vsi in tudi sam
