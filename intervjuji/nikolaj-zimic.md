@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Intervju: Nikolaj Zimič"
+title: "Intervju: Nikolaj Zimic"
 featured-img: intervju
-summary: Intervju 
+summary: Intervju
 categories: slo-post
 ---
 
@@ -10,5 +10,3 @@ IntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervju
 IntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervju
 IntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervju
 IntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervjuIntervju
-
-

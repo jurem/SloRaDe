@@ -10,6 +10,6 @@ categories: slo-post
 
  - [Tomaž Štebe](../intervjuji/tomaz-stebe)
  - [Štefan Urankar](../intervjuji/stefan-urankar)
- - [Nikolaj Zimič](../intervjuji/nikolaj-zimic)
+ - [Nikolaj Zimic](../intervjuji/nikolaj-zimic)
  - [Janez Škrubej, Janez Kožuh, Tugo Borina](../intervjuji/skrubej-kozuh-borina)
  - [Alojz Hudobivnik](../intervjuji/alojz-hudobivnik)
