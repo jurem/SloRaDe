@@ -31,7 +31,7 @@ Mikroračunalnik ID 1680 je temeljil na družni 8-bitnih mikroprocesorjev Motoro
 
 Modularna zasnova je IskraDati omogočala hitro in preprosto prilagajanje sistema raznim zahtevam tržišča, izdelovali pa so tudi univerzalne tiskane plošče formata 2E, na katerih so lahko uporabniki sami razvijali in dodajali svoje lastne module. Uporabniki so tako lahko poljubno razširjali sistem do najrazličnejših konfiguracij.
 
-Sistem je vseboval glavni pomnilnik RAM kapacitete 48kB in hitrejši ROM pomnilnik velikosti 16kB, podatke pa je hranil na 8 inčni disketni enoti. 
+Sistem je vseboval glavni pomnilnik RAM kapacitete 48 kB in hitrejši ROM pomnilnik velikosti 16 kB, podatke pa je hranil na 8 inčni disketni enoti. 
 
 Kot vhodno/izhodne naprave so bili dodani moduli: nadzorna plošča, modem hitrosti 300 baudov, analogno-digitalni pretvornik, digitalno-analogni pretvornik, ura v realnem času, serijska povezava RS-232, paralelna povezava Centronics in modul za upravljanje 16 programskih prekinitev. 
 
