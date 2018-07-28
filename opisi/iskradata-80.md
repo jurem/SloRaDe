@@ -12,7 +12,7 @@ foto: "../id80/id80_znacka.JPG"
 
  - 1979-1980
  - Modularna zgradba, ki omogoča poljubne konfiguracije
- - Distribuirana obdelava podatkov
+ - Porazdeljena obdelava podatkov
  - Do 16 delovnih postaj
  - Operacijski sistem IDOS
  - Do 4 diskovne enote
@@ -23,7 +23,7 @@ foto: "../id80/id80_znacka.JPG"
 
 <br>
 
-Iskradata 80, ali krajše ID80, je distribuirani računalniški sistem, ki ga je v letih 1979 in 1980 razvilo in proizvajalo podjetje Iskra TOZD Računalniki v Kranju, s sodelovanjem nemškega podjetja ADPS. ID80 je bil mikroračunalnik z modularno zasnovo, zato ga je bilo enostavno prilagoditi uporabnikovim zahtevam. Izšel je v nekaj različnih oblikah:
+Iskradata 80, ali krajše ID80, je porazdeljeni računalniški sistem, ki ga je v letih 1979 in 1980 razvilo in proizvajalo podjetje Iskra TOZD Računalniki v Kranju, s sodelovanjem nemškega podjetja ADPS. ID80 je bil mikroračunalnik z modularno zasnovo, zato ga je bilo enostavno prilagoditi uporabnikovim zahtevam. Izšel je v nekaj različnih oblikah:
 
 <img style="float: right; height: 50vh;" src="{{site.url}}/SloRaDe/assets/img/id80/brosuraSICAD.jpg" >
 
@@ -41,7 +41,7 @@ Distribuirana obdelava je omogočala dostop do baze podatkov v drugem računalni
 
 
 
-Uporabljal je operacijski sistem IDOS ali CP/M in delal s programskima jezikoma Basic in Pascal. Matični računalnik je lahko bral do 4 diskovne enote, do velikosti 300MB.
+Uporabljal je operacijski sistem IDOS ali CP/M in delal s programskima jezikoma Basic in Pascal. Matični računalnik je lahko bral do 4 diskovne enote, do velikosti 300 MB.
 
 <img style="height: 50vh;" src="{{site.url}}/SloRaDe/assets/img/id80/IskraData80wiki2007.jpg" >
 
@@ -52,7 +52,7 @@ Viri:
 
  - [Informatica - Časopis za tehnologijo računalništva in probleme informatike, 1981](https://www.dlib.si/stream/URN:NBN:SI:DOC-TMJKSE6N/f2ea158f-a358-4cd4-a9a7-2fa2b84115b0/PDF)
  - [Portal Slotech, Kiberpipa, 2008](https://slo-tech.com/novice/t334280)
- - Janez Kožuh
+ - Janez Kožuh, pogovor
 
 ------
 
