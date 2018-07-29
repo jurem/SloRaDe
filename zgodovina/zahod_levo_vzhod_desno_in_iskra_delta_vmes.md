@@ -50,5 +50,5 @@ uporabljati kot izgovor, da že dobavljenih računalnikov ne plačajo v dogovorj
 pa povzroči začetek nepremostljivih finančnih ovir za podjetje.
 
 
-![slika 5](../assets/img/zgodovina/image5.png)  
+![slika 5](../assets/img/zgodovina/image5.png)  <p>
 Slika 5: Fotografija predstavništva Iskre Delta in Mihail Gorbačov, ki si je prišel ogledat Deltine računalnike.
