@@ -7,7 +7,6 @@ categories: en-page
 ---
 
 # Gorenje
-
 The company has been around since 1950 when is started producing farming machinery. In
 the following years they focused on manufacturing solid fuel stoves, and in the 1960s
 expanded their catalogue to also include washing machines and refrigerators. Their expansion
@@ -18,4 +17,4 @@ Delta. Later, in 1980, Gorenje developed the microcomputer Gorenje Dialog in 3 v
 home, personal, and laboratory use. They also manufactured different types of terminals
 named Paka.
 
-Picture 4: Gorenje procesna oprema (Gorenje Processing Equipment)
+<!--Picture 4: Gorenje procesna oprema (Gorenje Processing Equipment)-->
