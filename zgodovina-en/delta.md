@@ -6,8 +6,7 @@ foto: delta.jpg
 categories: en-page
 ---
 
-# Delta:
-
+# Delta
 Delta had a formal agreement with DEC which supplied them with only the most integral
 components, while other components (for charging, cooling, and casing) and applicative
 software were manufactured by Delta itself. Because Delta employed an educated and
