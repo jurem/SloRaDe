@@ -36,7 +36,8 @@ Planici, smučarska tekmovanja v Kranjski gori in Mariboru ter Zimska Univerzija
 Čehoslovaškem. Njihovo sodelovanje je pomenilo popolno informacijsko podporo, evidenco
 sodelujočih ter zbiranje in distribucijo rezultatov na različnih lokacijah.
 
-#### Slika 1: Fotografija z Zimske univerzijade na Češkoslovaškem, na kateri je opazen reklamni balon z logotipom Iskra Delta Computers.
+![slika 1](../assets/img/zgodovina/image1.png)  
+Slika 1: Fotografija z Zimske univerzijade na Češkoslovaškem, na kateri je opazen reklamni balon z logotipom Iskra Delta Computers.
 
 V času delovanju so svoje izdelke vestno predstavljali na Interbiro sejmih v Ljubljani in
 Zagrebu ter s tem privabljali tudi veliko tujih strank. Prav na sejmu leta 1984 so bili nad
@@ -48,7 +49,9 @@ Jugoslaviji, ki je ti dve državi tudi povezal. Vseeno pa je prišlo pri uresni�
 določenih zapletov. Sodelovanje Jugoslavije s Kitajsko je pritegnilo pozornost vzhodnih in
 kitajskih obveščevalnih služb.
 
-#### Slika 2: Razstavni prostor Iskre Delta na sejmu Interbiro.
+![slika 2](../assets/img/zgodovina/image2.png)
+Slika 2: Razstavni prostor Iskre Delta na sejmu Interbiro.
+
 Konec leta 1986 se je Iskra Delta lahko pohvalila z dolgim seznamom proizvodov in uspešnih
 projektov, med katere spadajo računalniki Paka, [Partner](../../opisi/iskra-delta-partner) in [Triglav](../../opisi/iskra-delta-triglav), ki je bil pod imenom
 Trident na mednarodnem sejmu v nemškem Leipzigu izbran za najboljši računalnik v odprti
@@ -60,9 +63,12 @@ leta 1988 v Jugoslavijo pošlje državno delegacijo s predsednikom Rajivom Gandh
 čelu. Tudi z njimi se Iskra Delta uspešno dogovori za sodelovanje in ustanovitev mešanega
 podjetja v Indiji.
 
-#### Slika 3: Reklamna fotografija za računalnik Partner.
+![slika 3](../assets/img/zgodovina/image3.jpeg)
+Slika 3: Reklamna fotografija za računalnik Partner.
 
-#### Slika 4: Računalnik Triglav (Trident).
+![slika 4](../assets/img/zgodovina/image4.jpeg)
+<br>
+Slika 4: Računalnik Triglav (Trident).
 
 ### Zahod levo, Vzhod desno in Iskra Delta vmes
 Iskra Delta je svoje največje uspehe uživala v sredini in na koncu 80-ih let prejšnjega stoletja,
@@ -104,8 +110,8 @@ opremo. Ker Iskra Delta tega ne stori, začnejo sovjetski kupci spremenjene pred
 uporabljati kot izgovor, da že dobavljenih računalnikov ne plačajo v dogovorjenem roku, to
 pa povzroči začetek nepremostljivih finančnih ovir za podjetje.
 
-#### Slika 5: Fotografija predstavništva Iskre Delta in Mihail Gorbačov, ki si je prišel ogledat
-Deltine računalnike.
+![slika 5](../assets/img/zgodovina/image5.png)  <p>
+Slika 5: Fotografija predstavništva Iskre Delta in Mihail Gorbačov, ki si je prišel ogledat Deltine računalnike.
 
 ### Propad Iskre Delte
 Iskra Delta je s svojimi uspehi navdušila mnoge, a obenem ji je njen poslovni načrt nakopal
@@ -120,7 +126,6 @@ podjetje in si jo priključiti kot podružnico ameriškega podjetja, domači nas
 želeli omajati ogled podjetja in njenih zaposlenih v očeh javnosti. Leta 1987 podjetju uspe
 otvoriti nov razvojno-proizvodni center v Ljubljani in umiriti pritisk nase. Podležejo pa
 pritisku s strani podjetja IBM in se strinjajo za sodelovanje z njimi, kar omogoči ZDA dober
-
 pregled nad slovenskim prostorom, saj je bila Iskra Delta sedaj v sodelovanju tako z DEC kot
 z IBM. Nova strategija za zaviranje razvoja sedaj postanejo ponudbe zaposlenim pri Iskri
 Delti za izobraževanje in zaposlitev v ZDA.
@@ -166,7 +171,7 @@ Damjan Žemva. Skupaj so pokomentirali, zakaj je prišlo do nenadnega propada po
 nikoli povsem pojasnjenih okoliščinah.
 https://val202.rtvslo.si/2016/06/frekvenca-x-40/
 
-Slika 3: logotip podjetja Iskra Delta (IDC – Iskra Delta Computers).
+<!---Slika 3: logotip podjetja Iskra Delta (IDC – Iskra Delta Computers).-->
 
 ------
 [Nazaj na pregled zgodovine]({{site.base}}/SloRaDe/zgodovina)
