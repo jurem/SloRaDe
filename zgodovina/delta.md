@@ -30,4 +30,4 @@ ki jim je v kasnejših mesecih reševala njihov obstoj. Kmalu po tem, še v iste
 izključila iz Elektrotehne in se začela povezovati z Iskro in [Gorenjem](../gorenje) v podjetje, imenovano
 [Iskra Delta](../iskra_Delta). 
 
-#### Slika 2: Delta računalniški sistemi
+<!---Slika 2: Delta računalniški sistemi.-->
