@@ -28,3 +28,4 @@ V spodnjem seznamu se nahaja nekaj opisov slovenskih računalnikov. Vsebujejo ne
 # Ostalo
 
  - [Prototip procesne enote D8000](../opisi/D8000)
+ - [Seznam manj znanih slovenskih računalnikov](../opisi/mz_rac)
