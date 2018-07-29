@@ -6,7 +6,11 @@ foto: delta.jpg
 categories: en-page
 ---
 
-# First Days of Iskra Delta
+# Iskra Delta
+
+<br>
+
+## First Days of Iskra Delta
 
 Before Iskra Delta, a state-run company named Elektrotehna specialised in selling electrotechnical products to Yugoslav companies. In 1977 the department outgrew its original purpose and became
 an independent and specialised computer company named Delta, while still under the
@@ -24,9 +28,8 @@ cities. Despite a long list of successful projects, political tensions and extre
 conditions in late 1980s Yugoslavia led to the surprising and to this day not fully clarified
 downfall of Iskra Delta.
 
-### The Impact of Iskra Delta
-The
-personnel coming into the company from Iskra enabled it to grow at an even higher pace. So
+## The Impact of Iskra Delta
+The personnel coming into the company from Iskra enabled it to grow at an even higher pace. So
 much so it soon had its own sales and repairs centres all across Yugoslavia. Their success was
 based on their efforts to form a close relationship with the users of their products.
 
@@ -53,7 +56,7 @@ Chinese and other eastern countries’ intelligence services.
 
 
 
-## Podcasts
+### Podcasts
 
 The following podcast features Iskra Delta’s longest-standing director Janez Škrubej
 discussing what went on in the company during the Cold War and how they carried out the
@@ -66,5 +69,5 @@ Damjan Žemva. They discuss why the sudden downfall of the company in still not 
 explained circumstances occurred.
 https://val202.rtvslo.si/2016/06/frekvenca-x-40/
 
-Picture 3: Iskra Delta Computers (IDC) logo
+<!---Picture 3: Iskra Delta Computers (IDC) logo-->
 
