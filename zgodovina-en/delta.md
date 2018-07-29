@@ -34,4 +34,4 @@ instead started linking up with Iskra and Gorenje to form a company named Iskra 
 
 
 
-#### Picture 2: Delta računalniški sistemi (Delta Computer Systems)
+<!---#### Picture 2: Delta računalniški sistemi (Delta Computer Systems)-->
