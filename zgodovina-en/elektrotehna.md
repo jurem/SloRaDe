@@ -16,5 +16,5 @@ devices for managing business procedures. In 1977 the department outgrew its ori
 purpose and became a specialised and independent computer company named Delta, while
 still under the jurisdiction of Elektrotehna.
 
-Picture 1: Poster from 1953 advertising Elektrotehna, a company marketing and selling
-electrotechnical products.
+<!---Picture 1: Poster from 1953 advertising Elektrotehna, a company marketing and selling
+electrotechnical products.-->
