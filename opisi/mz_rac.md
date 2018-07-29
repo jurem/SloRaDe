@@ -39,19 +39,19 @@ Analizator logičnih stanj vodila je omogočal preizkušanje programov v realnem
 Iskradata 80 računalniki so družina sistemov za distribuirano obdelavo. Obstaja veliko različnih verzij saj je bil sistem modularen in so ga prilagajali glede na uporabnikove zahteve. 1 do 16 delovnih mest se je lahko priključilo na matični računalnik, ki je imel razširljiv pomnilnik z do 4 diskovnimi enotami. Vmesnik RS 232-V24 je omogočal priključitev perifernih naprav.
 
 Spodaj je seznam nekaterih Iskradata modelov in njihovih namenov uporabe:
-Iskradata 80-50 Pisalnik
-Iskradata 80-60 Samostojno delovno mesto
-Iskradata 80-70 Komunikacijsko delovno mesto
-Iskradata 80-75 Sinhroni terminal
-Iskradata 80-80 Samostojni matični sistem
-Iskradata 80-90 Komunikacijski matični sistem
+ - Iskradata 80-50 Pisalnik
+ - Iskradata 80-60 Samostojno delovno mesto
+ - Iskradata 80-70 Komunikacijsko delovno mesto
+ - Iskradata 80-75 Sinhroni terminal
+ - Iskradata 80-80 Samostojni matični sistem
+ - Iskradata 80-90 Komunikacijski matični sistem
 
 
 ●	**DELTA** 
 
-DELTA 340 je bil razvit leta 1978 in podarjen predsedniku Titu za rojstni dan. Skupaj z Delta 644, 700, 400 je bil začetek domačih mini in supermini računalnikov.
-DELTA 4780 je uporabljal procesor VAX 11/780 in operacijski sistem Delta V.
-DELTA 4850 je uporabljal procesor VAX 11/750 in operacijski sistem Delta V.
+ - DELTA 340 je bil razvit leta 1978 in podarjen predsedniku Titu za rojstni dan. Skupaj z Delta 644, 700, 400 je bil začetek domačih mini in supermini računalnikov.
+ - DELTA 4780 je uporabljal procesor VAX 11/780 in operacijski sistem Delta V.
+ - DELTA 4850 je uporabljal procesor VAX 11/750 in operacijski sistem Delta V.
 
 
 ●	**GEMINI**
