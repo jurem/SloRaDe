@@ -71,6 +71,6 @@ osebnih dohodkov, fakturiranje
 - Prenos podatkov
 - Zajemanje podatkov
 
-#### Fotografija 1: Prikaz uporabe računalnika Partner v pisarni.
+<!---#### Fotografija 1: Prikaz uporabe računalnika Partner v pisarni.-->
 
-#### Fotografija 2: prikaz EKG-ja na ekranu računalnika Partner.
+<!---#### Fotografija 2: prikaz EKG-ja na ekranu računalnika Partner.-->
