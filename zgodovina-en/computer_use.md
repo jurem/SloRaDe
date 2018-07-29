@@ -77,6 +77,6 @@ processing, education
 - Data transfers
 - Data gathering
 
-#### Picture 1: Demonstration of using the Partner computer in the office
+<!---#### Picture 1: Demonstration of using the Partner computer in the office-->
 
-#### Picture 2: display of an EKG on the Partner computer monitor
+<!---#### Picture 2: display of an EKG on the Partner computer monitor-->
