@@ -6,7 +6,7 @@ foto: elektrotehna.jpg
 categories: en-page
 ---
 
-# Elektrotehna:
+# Elektrotehna
 In 1970s Yugoslavia a state-run company named Elektrotehna was specialised in selling
 electrotechnical products to Yugoslav companies. Elektrotehna linked up with American
 company DEC (Digital Equipment Corporation) with the goal of selling computers across
