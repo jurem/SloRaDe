@@ -6,6 +6,10 @@ summary: Intervju
 categories: slo-post
 ---
 
+#Intervju: Stefan Urankar
+
+*Povzetek Intervjuja*
+
 Gospod Urankar vidi kot začetek resnega razvoja računalništva na slovenskem leto 1972, čas razvoja Intel-ovega mikroprocesorja 8008, ki je prvi 8-bitni mikroprocesor (leto prej je bil razvit 4004 4-bitni mikroprocesor). V tem času smo v Sloveniji že imeli nekaj računalnikov, ki so se uporabljali v poslovne namene, spomni se tudi računalnika na fakulteti za elektrotehniko, ki se je uporabljal za poučevalne (učili so se Fortran-visokonivojski programski jezik) in znanstvene namene.    
 Sodeloval je pri razvoju računalnikov za telefonske centrale, te so se za razliko od običajnih računalnikov morali odzvati v realnem času, odziv je pomenil vzpostavitev svoje vloge in telefonske zveze. Takim računalnikom pravimo procesni računalniki. V Kranj je tehnologija prišla, ko je okrog 1972 leta Iskra Kranj pridobila licenco za telefonsko avtomatsko centralo Metaconta 10C iz Belgije. Tja je Iskra poslala tudi svoje delavce na izobraževanje, ti pa so nazaj prinesli potrebno znanje. Postaje so bile krmiljene z 16-bitnimi mini računalniki ITT 1600 za manjše centrale in 32-bitnimi ITT 3200 za večje. Te računalnike se je počasi začelo posodabljati, core memory je dobil pomnilniško memorijo, pridobili so tudi disk, V/I enota je postala monitor z tipkovnico, kartica ni bila več potrebna in še precej malenkosti.    
 Kot štipendist je delal v Iskri pod vodstvom Andreja Uratnika, ki je dobro poznal oba računalnika v uporabi in je ena prvih oseb, ki se je poglobljeno začela ukvarjati z računalništvom v Sloveniji. Kot predlog diplome mu je Uratnik predlagal naj razmišlja o mikroračunalniku na bazi mikroprocesorja, v pomoč pa je bila tudi literatura o Intel 8080 mikroprocesorju, ki jo je par mesecev prej prinesel iz Amerike.
