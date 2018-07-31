@@ -17,4 +17,5 @@ Delta. Later, in 1980, Gorenje developed the microcomputer Gorenje Dialog in 3 v
 home, personal, and laboratory use. They also manufactured different types of terminals
 named Paka.
 
-<!--Picture 4: Gorenje procesna oprema (Gorenje Processing Equipment)-->
+![Slika 1](../assets/img/zgodovina/gpo1.png)  
+Picture 1: Gorenje procesna oprema (Gorenje Processing Equipment)
