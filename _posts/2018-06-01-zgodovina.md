@@ -37,4 +37,5 @@ Ko pomislimo na stare računalnike, si verjetno zamislimo ogromne naprave, ki za
 Tukaj se nahajajo ostale relevantne informacije povezane s slovensko računalniško dediščino.
  
  - [Primeri uporabe računalnikov](../zgodovina/primeri_uporabe)
+ - [Izobraževalni center Delta](../zgodovina/izob_center_delta)
  - [Kronologija dogodkov slovenskega računalništva](../zgodovina/kronologija)
