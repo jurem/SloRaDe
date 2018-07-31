@@ -75,7 +75,7 @@ Ne, mi smo ta paket potem naredili, kasneje pa sem prevzel oddelke za mikroraču
 
 **Kdaj ste to dobili?**
 
-2014. Zdaj se trudimo, da bi dobili finančna sredstva, pa da bi kakšni sploh dovolili da to delamo, mora občina dovolit, potem se z vodovodarji zmeniti, pa še s parimi. Nekaj smo se sicer že zmenili s Slovensko Bistrico.
+Leta 2014. Zdaj se trudimo, da bi dobili finančna sredstva, pa da bi kakšni sploh dovolili da to delamo, mora občina dovolit, potem se z vodovodarji zmeniti, pa še s parimi. Nekaj smo se sicer že zmenili s Slovensko Bistrico.
 
 **Potem ste še zmeraj kar aktivni na računalniškem področju?**
 
