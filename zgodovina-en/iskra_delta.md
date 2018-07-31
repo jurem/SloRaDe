@@ -69,5 +69,6 @@ Damjan Žemva. They discuss why the sudden downfall of the company in still not 
 explained circumstances occurred.
 https://val202.rtvslo.si/2016/06/frekvenca-x-40/
 
-<!---Picture 3: Iskra Delta Computers (IDC) logo-->
+![Slika 1](../assets/img/zgodovina/idc1.png)  
+Picture 1: Iskra Delta Computers (IDC) logo
 
