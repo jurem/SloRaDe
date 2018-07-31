@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Delta"
+title: "izobDelta"
 foto: delta.jpg
 categories: slo-page
 ---
