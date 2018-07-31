@@ -171,7 +171,8 @@ Damjan Žemva. Skupaj so pokomentirali, zakaj je prišlo do nenadnega propada po
 nikoli povsem pojasnjenih okoliščinah.
 https://val202.rtvslo.si/2016/06/frekvenca-x-40/
 
-<!---Slika 3: logotip podjetja Iskra Delta (IDC – Iskra Delta Computers).-->
+![Slika 6](../assets/img/zgodovina/idc1.png)  
+Slika 6: logotip podjetja Iskra Delta (IDC – Iskra Delta Computers).
 
 ------
 [Nazaj na pregled zgodovine]({{site.base}}/SloRaDe/zgodovina)
