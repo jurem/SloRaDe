@@ -16,4 +16,5 @@ Iskro in Elektrotehno v podjetje Iskra Delta. Leta 1980 je Gorenje v treh razli�
 osebni in laboratorijski – razvilo mikroračunalnik Gorenje Dialog. Tam so izdelovali tudi več
 različic terminalov, imenovanih Paka.
 
-<!---#### Slika 4: Gorenje Procesna oprema-->
+![Slika 1](../assets/img/zgodovina/gpo1.png)  
+Slika 1: Gorenje Procesna oprema
