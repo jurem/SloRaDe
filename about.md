@@ -4,32 +4,31 @@ title: O projektu
 permalink: /about/
 ---
 
-# Cilj in aktivnosti
+# Our goal and activities
 
-V današnjem času, ko v svetu prevladuje računalniška tehnologija, največkrat zasnovana v zahodnih in izdelana v vzhodnih državah, si le malokdo še predstavlja, da je bila tudi Slovenija (kot del Jugoslavije) nekoč zelo aktivna pri njenem razvoju. V osemdesetih in devetdesetih letih prejšnjega stoletja je tako nastalo več slovenskih računalnikov in pripadajoče opreme tako strojne kot programske.
+In a world dominated by computer technology most frequently developed in western and manufactured in eastern countries, few can imagine there once was a time when Slovenia (at the time a part of Yugoslavia) was among the most important developers of information technology. The 1980s and 1990s were decades when a number of Slovene computers, along with hardware and software, were developed and produced.
 
-Podrobnejše informacije o razviti tehnologiji je na spletu dokaj težko pridobiti. Še težje je najti podrobne tehnične specifikacije in povezano literaturo. In nenazadnje, ti računalniki in pripadajoča oprema fizično skorajda ne obstajajo več, le peščica (pogosto nedelujočih) se jih skriva na policah zbirateljev in drugih navdušencev. Razlogov za to je več: računalniki niso bili izdelani v večjih količinah, namenjeni so bili predvsem poslovni rabi, njihov razvoj je s prodorom PC računalnikov zamrl.
+It is hard for one to find detailed information on the technology developed at that time, while detailed technical specifications and related literature are even more scarce. Furthermore, most of these computers and related hardware no longer exist, only a handful (usually no longer functioning) devices can be found on the shelves of collectors and other enthusiasts. Some of the reasons for this are that the computers were not produced in large quantities, they were mostly intended for business use, and the breakthrough of personal computers (PCs) putting an end to their development.
 
-Glavni cilj projekta pred pozabo rešiti računalniško tehnologijo, ki je bila v prejšnjem stoletju izdelana na področju Slovenije. Fizično reševanje opreme je, zaradi hitrega zastaranja tehnologije, težko izvedljivo, zato so naša prizadevanja usmerjena v popis obstoječe strojne opreme, arhiviranje programske opreme, pogovore z vpletenimi osebami, digitalizacijo literature in zapis drugih povezanih informacij, ki so trenutno še dostopne. Zbrane informacije so v prečiščeni obliki javno dostopne preko tega spletnega portala.
+The main goal of the project is to save the computer technology developed in Slovenia in the last century from being forgotten. As physically saving the equipment and technology is unlikely due to its rapid aging, our focus is on making an inventory of existing hardware, software, and other relevant sources of information, digitalising relevant literature, and talking with people involved in the development of Slovene information technology. The gathered information has been distilled and is publicly available on this portal.
 
-# Podpora
+# Support
 
-Finančno podporo projektu je nudil [Javni štipendijski, razvojni, invalidski in preživninski sklad Republike Slovenije](http://www.sklad-kadri.si) v okviru razpisa [Študentski inovativni projekti za družbeno korist 2016–2018](http://www.sklad-kadri.si/si/razpisi-in-objave/naslovnica/razpis/n/javni-razpis-projektno-delo-z-negospodarskim-in-neprofitnim-sektorjem-studentski-inovativni-pro). Gre za štirimesečni študentski projekt, ki se je izvajal na [Fakulteti za računalništvo in informatiko](https://fri.uni-lj.si) [Univerze v Ljubljani](https://www.uni-lj.si/) v sodelovanju z [Muzejem in galerijami mesta Ljubljane](https://mgml.si/sl/), v obdobju ob marca do junija 2018. Na projektu je sodelovalo 10 študentov, vsaj štirih različnih študijskih smeri, vsak izmed njih je v času projekta prispeval trud enakovreden enemu mesecu dela.
+The project was financially backed by the  [the Public Scholarship, Development, Disability and Maintenance Fund of the Republic of Slovenia](http://www.sklad-kadri.si). It spanned 4 months, from March to June 2018, and was overseen by the [Faculty of Computer and Information Science ](https://fri.uni-lj.si) of the [University of Ljubljana](https://www.uni-lj.si/) in cooperation with [The Museum and Galleries of Ljubljana](https://mgml.si/sl/). 10 students of at least four different courses of study participated in the project, each of them contributing the equivalent of a month’s work.
 
-# Sodelujoči
-### Mentorja
- - pedagoški mentor: Jurij Mihelič, UL FRI
- - strokovni mentor: Mojca Ferle, Muzej in galerije mesta Ljubljane
+# Participans
+### Mentors
+ - pedagogical mentor: Jurij Mihelič (Faculty of Computer and Information Science, University of Ljubljana)
+ - professional/technical mentor: Mojca Ferle (The Museum and Galleries of Ljubljana)
 
-### Študenti
- - Boštjan Hren, UL FRI in UL FMF
- - Dejan Držanč, UL PeF
- - Kevin Cvetežar, UL FRI
- - Luka Kržišnik, UL FF
- - Luka Perovič, UL FRI
- - Maja Ferle, UL BF
- - Matej Horvat, UL FRI
- - Teja Primožič, UL FRI
- - Tugo-Tijaš Štrbenc, UL PeF
- - Robert Kalem, UL FRI
-
+### Students
+ - Boštjan Hren (Faculty of Computer and Information Science, University of Ljubljana & Faculty of Education, University of Ljubljana)
+ - Dejan Držanč (Faculty of Education, University of Ljubljana)
+ - Kevin Cvetežar (Faculty of Computer and Information Science, University of Ljubljana)
+ - Luka Kržišnik (Faculty of Arts, University of Ljubljana)
+ - Luka Perovič (Faculty of Computer and Information Science, University of Ljubljana)
+ - Maja Ferle (Biotechnical Faculty, University of Ljubljana)
+ - Matej Horvat (Faculty of Computer and Information Science, University of Ljubljana)
+ - Teja Primožič (Faculty of Computer and Information Science, University of Ljubljana)
+ - Tugo-Tijaš Štrbenc (Faculty of Education, University of Ljubljana)
+ - Robert Kalem (Faculty of Computer and Information Science, University of Ljubljana)
