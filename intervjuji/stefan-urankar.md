@@ -22,7 +22,7 @@ V nadaljevanju so razvijali 16-bitni računalnik v sodelovanju z Iskra TOZD rač
 Gospod Urankar za hitri padec Iskre vidi razlog v padcu embarga in izgubi tržnega primata na Jugoslovanskem trgu, saj je kar naenkrat morala konkurirati z zunanjimi proizvajalci, hkrati pa se je razvoj hardware-a tako pospešil, da Iskra ni morala več dohajati konkurence.
 
 
-# Tranksripcija Intervjuja
+# Intervju
 
 **Od gospoda Kožuha smo izvedeli, da ste delali na računalnikih za telefonske centrale in razvoju le teh.**
 
