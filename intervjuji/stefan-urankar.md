@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Intervju: Štefan Urankar"
+title: "Štefan Urankar"
 featured-img: intervju
 summary: Intervju
 categories: slo-post
