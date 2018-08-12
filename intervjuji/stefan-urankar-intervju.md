@@ -91,7 +91,7 @@ Mi smo imeli svoje računalnike, mi smo imeli HP računalnike za razvoj, Metacon
 
 Tako, to je slovenski produkt, mi smo hoteli ta mehurški pomnilnik imet, zakaj ga potem nismo uporabljali? Na svetu je potem zadeva, kar potihnila in zato se tega ni več omenjalo.
 
-**Koliko takih plošč pa je bilo narejenih**
+**Koliko takih plošč pa je bilo narejenih?**
 
 Samo dve.
 
@@ -105,11 +105,11 @@ Da. Samo testiranja je delalo. Ni bilo potem več želje, da bi to uporabili za 
 
 **In kako je bilo z razvojem nove tehnologije, ste kdaj zgrešili trg, mogoče tehnologija ni delovala pravilno, se je to dostikrat zgodilo?**
 
-Če vzamem za primer mehurčni pomnilnik, na začetku je to dobro kazal, zelo dobro, mi nismo vedeli takrat kako se bo to odvilo kasneje, nam je ideja bila zelo zanimiva, kot zamenjava za pomnilnik. Te stvari se dogajajo pri razvoju. Poglejte 16-bitni procesor smo razvijal v dobri veri, da zamenjamo 8-bitnega. Mi smo ga naredili, zaradi procesne moči, pa ga nismo uporabili, bil je razvit in ne uporabljen v proizvodnji, smo 8-bitnega delali do nezavesti. Tako da smo potem 32- bitni procesor začeli razvijati, ker so te firme, kot so Intel in druge hitro šle s tehnologijo naprej, seveda ne z isto hitrostjo kot danes.
+Če vzamem za primer mehurčni pomnilnik, na začetku je to dobro kazal, zelo dobro, mi nismo vedeli takrat kako se bo to odvilo kasneje, nam je ideja bila zelo zanimiva, kot zamenjava za pomnilnik. Te stvari se dogajajo pri razvoju. Poglejte 16-bitni procesor smo razvijal v dobri veri, da zamenjamo 8-bitnega. Mi smo ga naredili, zaradi procesne moči, pa ga nismo uporabili, bil je razvit in ne uporabljen v proizvodnji, smo 8-bitnega delali do nezavesti. Tako da smo potem 32- bitni procesor začeli razvijati, ker so te firme kot so Intel in druge hitro šle s tehnologijo naprej, seveda ne z isto hitrostjo kot danes.
 
-**Kaj ste pa potem še kaj razvijali, koliko računalnikov ste v bisvtu vi razvili za lastne potrebe?**
+**Kaj ste pa potem še kaj razvijali, koliko računalnikov ste v bistvu vi razvili za lastne potrebe?**
 
-8-bitnega sem zelo veliko sam razvijal, od spominskih plošč do konzole, do centralne enote, potem sem za mini računalnik ITT-jev razvijal krmilnik, pa mislim da sem tudi pri memoriji, tega se ne spomnim več. Pri 16-bitnem smo pa sodelovali z Iskra delto, mi smo specificirali posamezne enote, specificirali smo bus, s tem da so oni ta design postavili na VMI ploščo, mi pa na našo standardno ploščo, imeli smo svoj format plošče ki smo ga podedovali od metaconta, to je ta format plošče, ki sem vam ga pokazal, vmi je bil malo drugačen, malo višji in malo krajši. Kasetno enoto implementirali, to je bil magnetni trak, za te mikroračunalnike.
+8-bitnega sem zelo veliko sam razvijal, od spominskih plošč do konzole, do centralne enote, potem sem za mini računalnik ITT-jev razvijal krmilnik, pa mislim da sem tudi pri memoriji, tega se ne spomnim več. Pri 16-bitnem smo pa sodelovali z Iskra Delto, mi smo specificirali posamezne enote, specificirali smo bus, s tem da so oni ta design postavili na VMI ploščo, mi pa na našo standardno ploščo, imeli smo svoj format plošče ki smo ga podedovali od metaconta, to je ta format plošče, ki sem vam ga pokazal, VMI je bil malo drugačen, malo višji in malo krajši.Potem smo implementirali kasetno enoto, to je bil magnetni trak, za te mikroračunalnike.
 
 **In kaj se je snemalo na te kasete?**
 
@@ -129,19 +129,19 @@ Seveda, kupiti pa smo morali čipe in enote, v glavnem pa smo računalnike delal
 
 **S temi računalniki ste oskrbovali tudi kakšen drug oddelek, ali so bili specializirani za oddelek telekomunikacij?**
 
-To so bili namenski računalniki, bili so izključno narejeni za naše centrale, res da smo imeli vmes eno idejo da bi na naš 16 bitni računalnik, ki smo ga razvili naložili Unix, in to se je tudi zgodilo, ideja je bila, da bi ga uporabili še za kaj drugega, kot npr. za razvojni sistem, tako da potem smo ga vgradili v eno mizo, popolnoma enak računalnik, saj računalnik kot računalnik. Ta je bil z Unixom in naj bi ga uporabili kot razvojna postaja Unix. Ampak na koncu so prevladali kompletni računalniki, tako da dokakšne množične uporabe tega ni prišlo, je pa ta računalnik se mi zdi tudi v gimnaziji Kranj. Tako da smo imeli tudi opravka z enim Unixom, čeprav Unixa za samo centralo nismo rabili, mi smo ga uporabljali kot razvojno postajo, verjetno so ga imeli tudi tam na hp-ju. Kar se mene tiče jaz sem pol življenja delal na razvoju hardware, kasneje pa sem se začel ukvarjati s konformančnimi testiranji komunikacijskih protokolov. To so pa, protokoli ki jih je kar nekaj v telekomunikacijah, kasneje so se pridružili tudi računalniški protokoli.
+To so bili namenski računalniki, bili so izključno narejeni za naše centrale, res da smo imeli vmes eno idejo da bi na naš 16 bitni računalnik, ki smo ga razvili naložili Unix, in to se je tudi zgodilo, ideja je bila, da bi ga uporabili še za kaj drugega, kot npr. za razvojni sistem, tako da potem smo ga vgradili v eno mizo, popolnoma enak računalnik, saj računalnik kot računalnik. Ta je bil z Unixom in naj bi ga uporabili kot razvojna postaja Unix. Ampak na koncu so prevladali kompletni računalniki, tako da dokakšne množične uporabe tega ni prišlo, je pa ta računalnik se mi zdi tudi v gimnaziji Kranj. Tako da smo imeli tudi opravka z enim Unixom, čeprav Unixa za samo centralo nismo rabili, mi smo ga uporabljali kot razvojno postajo, verjetno so ga imeli tudi tam na hp-ju. Kar se mene tiče jaz sem pol življenja delal na razvoju hardware, kasneje pa sem se začel ukvarjati s konformančnimi testiranji komunikacijskih protokolov. To so pa protokoli, ki jih je kar nekaj v telekomunikacijah, kasneje so se pridružili tudi računalniški protokoli.
 
 **Prej ste omenili embargo, vas je ta kaj omejeval pri razvoju, mogoče ste hoteli kaj uvoziti pa niste mogli, ker Američani takrat niso smeli izvažati v Kitajsko, Rusijo, saj Jugoslavija je imela nek dogovor, samo niste smeli naprej prodajati.**
 
 Ne morali smo pridobiti end-user certifikate, nismo smeli nikamor izvažati ta razvojni sistem, niti pripelati le začasno, vem pa da na vzhodu ga niso morali kupit, imeli smo zgleda neke poti da smo lahko do tega prišli. Posebno za recimo te analizatorje, so bili TOS kodirani analizatorji, ki smo jih uporabili za testiranje protokolov, imeli smo analizatorje od firme Tekelek, od Siemensa. Od Tekeleka smo imel kar 3 analizatorje. to so analizatorji za testiranje protokolov, zdaj, da ne omenjam hardwarske analizatorje, tam se mi zdi da je bilo malo lažje. No kasneje se je to odprlo, embargo pa je nekako zbledel, smo kupovali najsodobnejšo ameriško tehnologijo kar se je tičalo analizatorjev od firme Spyrent in še kakšne druge, ki se jih ta trenutek ne spomnem.
 
-**Vidim, da imate na računalniku en ekran gorenje iskra delta, to je nastalo, takrat ko je bila že iskra delta in je bil združeno ime?**
+**Vidim, da imate na računalniku en ekran Gorenje Iskra Delta, to je nastalo, takrat ko je bila že Iskra Delta in je bilo združeno ime?**
 
-Prej ste me vprašali Iskra Delta, jaz se spomnim takole, Iskra računalnik je nastal v Kranju, to je bil lasten razvoj na bazi tega mikroprocesorja, pozabil sem še povedati, da te družini 6800 mikroračunalnikov so imeli tudi en mikroračunalnik ki je bil na bazi Ziolaga. Z80 ta ni bil razvit v Sloveniji, v tej skupini, ampak v Nemčiji, to je bila skupina slovencov ki so gor delali in so za Iskro naredili en podoben razvojni sistem, in mislim da se je imenoval ID80, to je bilo v okviru Iskre, potem v Ljubljani je bila Elektrotehna, ki je imela ameriški sistem in ta Elektrotehna, ki se je kasneje imenovala delta, ta del se je združil z Iskra računalniki, slovensko računalništvo se je združilo in se je potem imenovalo Iskra Delta, tako da so delali dvoje sorte računalnikov, lasten razvoj na osnovi mikroprocesorjev, in pa njihov računalnik, ki so ga že prej prodajali.
+Prej ste me vprašali Iskra Delta, jaz se spomnim takole, Iskra računalnik je nastal v Kranju, to je bil lasten razvoj na bazi tega mikroprocesorja, pozabil sem še povedati, da te družini 6800 mikroračunalnikov so imeli tudi en mikroračunalnik ki je bil na bazi Ziologa. Z80 ta ni bil razvit v Sloveniji, v tej skupini, ampak v Nemčiji, to je bila skupina slovencov ki so gor delali in so za Iskro naredili en podoben razvojni sistem, in mislim da se je imenoval ID80, to je bilo v okviru Iskre, potem v Ljubljani je bila Elektrotehna, ki je imela ameriški sistem in ta Elektrotehna, ki se je kasneje imenovala delta, ta del se je združil z Iskra računalniki, slovensko računalništvo se je združilo in se je potem imenovalo Iskra Delta, tako da so delali dvoje sorte računalnikov, lasten razvoj na osnovi mikroprocesorjev, in pa njihov računalnik, ki so ga že prej prodajali.
 
-**Kdaj je pa gorenje prišlo zraven?**
+**Kdaj je pa Gorenje prišlo zraven?**
 
-Gorenje, je tudi jaz točno ne vem. Gorenje je npr. s temi terminali sodeloval, to je bilo v gorenju narejeno, gorenje delta, ker verjetno oni so bili za televizorje in jim je to zgleda prav prišlo.
+Gorenje, je tudi jaz točno ne vem. Gorenje je npr. s temi terminali sodeloval, to je bilo v Gorenju narejeno, Gorenje Delta, ker verjetno oni so bili za televizorje in jim je to zgleda prav prišlo.
 
 **Iskra Delta je zelo hitro propadla, kako se je takrat gledalo na to, kaj se je javno vedelo, javno reklo da so razlogi za to.**
 
