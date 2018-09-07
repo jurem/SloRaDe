@@ -10,8 +10,7 @@ categories: slo-post
 
 PT1
 
-** 00:00 (T) - Najprej naju zanima kakšno vlogo ste imeli v slovenski računalniški industriji, 
-            če ste bili morda razvijalec katerega od računalnikov (Slovenskih), ali pa uporabnik katerega od računalnikov ? **
+##### 00:00 (T) - Najprej naju zanima kakšno vlogo ste imeli v slovenski računalniški industriji, če ste bili morda razvijalec katerega od računalnikov (Slovenskih), ali pa uporabnik katerega od računalnikov ?
 
 00:12 (Š) - Jaz sem se že pred tem ukvarjal z mikro računalniki, preden sem prišel na delto
 
@@ -101,7 +100,7 @@ PT1
             
 10:11     - Fantje so določili kaj rabimo, od analizatorjev, emulatorjev in celega kupa stvari in je prišla čez noč na firmo
 
-** 10:22 (T) - Se pravi, če prav razumem, vi ste bil vodja ... ? **
+##### 10:22 (T) - Se pravi, če prav razumem, vi ste bil vodja ... ? 
 
 10:25 (Š) - V bistvu izvršni vodja bolj ali manj. Mi nismo imeli formalnega vodje v tej skupini zaradi tega, ker... naša znanja so se prepletala in dopolnjevala.
 
@@ -144,7 +143,7 @@ PT1
 
 15:33     - Mi smo imeli tam prav testno okolje, temperaturno celico, ki je usmernike testirala... pa tiskana vezja. In tam so se nekako ti partnerji tudi sestavljali, v prvi fazi.
 
-** 15:47 (T) - Se pravi v Šentjakobu ? **
+##### 15:47 (T) - Se pravi v Šentjakobu ? 
 
 15:49     - V šentjakobu, rožni dolini, v Avstriji.
 
@@ -186,7 +185,7 @@ PT1
 
 20:50     - In seveda, vsi so se borili za to pogačo na temu področju poslovnega računalništva. 
 
-** 21:02 (T) - Ali so te male firmice večinoma samo sestavljale dela ali so tudi kaj sami razvijali ? **
+##### 21:02 (T) - Ali so te male firmice večinoma samo sestavljale dela ali so tudi kaj sami razvijali ? 
 
 21:09 (Š) - Večinoma je bila to garažna zadeva, softwaresko se je šele potem na temu področju začelo kaj več delati.
 
@@ -230,8 +229,7 @@ PT1
  
 PL2
 
-** 25:24 (T) - Po vašem mnenju, kakšne so bile prednosti in slabosti vaši novejših računalnikov takrat, 
-            pa tako na splošno me zanima, če se je kaj delalo na temu kakšno kvaliteto komponent ste dali notri na začetku pa potem proti koncu, če se je že takrat špekuliralo. **
+##### 25:24 (T) - Po vašem mnenju, kakšne so bile prednosti in slabosti vaši novejših računalnikov takrat, pa tako na splošno me zanima, če se je kaj delalo na temu kakšno kvaliteto komponent ste dali notri na začetku pa potem proti koncu, če se je že takrat špekuliralo. 
 
 25:46 (Š) - O ja, mi kot razvijalci smo zahtevali "industrial grade components". Se pravi strogo kontrolirane zadeve po specifikacijah.
             To se je nekaj časa držalo, potem ko so šle pa te zadeve  vn v proizvodnjo so se pa nabavne službe in tisti odgovorni za proizvodnjo odločali bolj ali manj bodisi zaradi cen, bodisi zaradi hitrosti dobave.
