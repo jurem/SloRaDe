@@ -16,4 +16,4 @@ Izvedba projekta ne bi bila mogoča brez pomoči posameznikov, ki so se odzvali 
 - Prof. dr. Dušanu Kodeku za pogovor in delitev osebnih izkušenj razvoja računalništva.
 - Mag. Alojzu Hudobivniku za pogovor in deljeno znanje
 - Antonu Žvanutu za vse informacije o projektu D8000, drugih projektih Iskre Delte in industriji v tistem času.
-- Uporabnik GitHub-a Janu Czizikowu (uporabniško ime: janczizikow) za njegovo predlogo "sleek", ki smojo uporabili pri ustvarjanju naše spletne strani. Uporaba predloge je prosta pod pogoji MIT licence.
+- Uporabnik GitHub-a Janu Czizikowu (uporabniško ime: janczizikow) za njegovo predlogo "sleek", ki smo jo uporabili pri ustvarjanju naše spletne strani. Uporaba predloge je prosta pod pogoji MIT licence.
