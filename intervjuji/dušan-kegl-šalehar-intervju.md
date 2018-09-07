@@ -6,7 +6,7 @@ summary: Intervju
 categories: slo-post
 ---
 
-# Intervju: Alojz Hudobivnik
+# Intervju: Dušan Kegl Šalehar
 
 PT1
 
@@ -227,7 +227,7 @@ PT1
 
 24:58     - Recimo J-11 procesorji, Triglavove plošče so poganjale vozičke v Mercedesu, Pogovarjali smo se s Siemens Nixdorf o proizvodnji raznih stvari ampak vse to je šlo v propad.
  
-PL2
+PT2
 
 #### 25:24 (T) - Po vašem mnenju, kakšne so bile prednosti in slabosti vaši novejših računalnikov takrat, pa tako na splošno me zanima, če se je kaj delalo na temu kakšno kvaliteto komponent ste dali notri na začetku pa potem proti koncu, če se je že takrat špekuliralo. 
 
