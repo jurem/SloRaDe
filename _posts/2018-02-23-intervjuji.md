@@ -13,3 +13,4 @@ categories: slo-post
  - [Nikolaj Zimic](../intervjuji/nikolaj-zimic)
  - [Janez Škrubej, Janez Kožuh, Tugo Borina](../intervjuji/skrubej-kozuh-borina)
  - [Alojz Hudobivnik](../intervjuji/alojz-hudobivnik)
+ - [Dušan Kegl Šalehar](../intervjuji/dušan-kegl-šalehar)
