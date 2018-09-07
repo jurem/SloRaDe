@@ -38,5 +38,5 @@ Prvi Triglavov operacijski sistem je bim Microsoftov Xenix. V Microsoftu so ob t
 ------
 
 Za konec G. Šalehar navede še svoja mnenja o razlogih za stečaj Delte. 
-Podrobnejše informacije o tem v [transkriptu preurejenega zvočnega posnetka](dušan-kegl-šalehar-intervju), čas 15:56+.
+Podrobnejše informacije o tem v [transkriptu preurejenega zvočnega posnetka](../dušan-kegl-šalehar-intervju), čas 15:56+.
 
