@@ -1,7 +1,8 @@
 ---
+lang: en
 layout: page
-title: O projektu
-permalink: /about/
+title: About
+permalink: /en/about/
 ---
 
 # Our goal and activities

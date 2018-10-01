@@ -10,22 +10,22 @@ V spodnjem seznamu se nahaja nekaj opisov slovenskih računalnikov. Vsebujejo ne
 
 # Iskra Delta
 
- - [Iskra Delta 800](../opisi/iskra-delta-800)
- - [Iskra Delta Partner](../opisi/iskra-delta-partner)
- - [Iskra Delta Triglav](../opisi/iskra-delta-triglav)
+ - [Iskra Delta 800](iskra-delta-800)
+ - [Iskra Delta Partner](iskra-delta-partner)
+ - [Iskra Delta Triglav](iskra-delta-triglav)
  
 # Iskra TOZD Računalniki
 
- - [Iskradata 80](../opisi/iskradata-80)
- - [Iskradata 1680](../opisi/iskradata-1680)
+ - [Iskradata 80](iskradata-80)
+ - [Iskradata 1680](iskradata-1680)
  
 # Gorenje
 
- - [Gorenje Dialog](../opisi/gorenje-dialog)
- - [Terminal Paka 2000](../opisi/paka-2000)
- - [Terminal Paka 3000](../opisi/paka-3000)
+ - [Gorenje Dialog](gorenje-dialog)
+ - [Terminal Paka 2000](paka-2000)
+ - [Terminal Paka 3000](paka-3000)
 
 # Ostalo
 
- - [Prototip procesne enote D8000](../opisi/D8000)
- - [Seznam manj znanih slovenskih računalnikov](../opisi/mz_rac)
+ - [Prototip procesne enote D8000](D8000)
+ - [Seznam manj znanih slovenskih računalnikov](mz_rac)

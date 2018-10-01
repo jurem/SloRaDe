@@ -1,45 +1,26 @@
 ---
 layout: compress
 ---
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "si" }}">
 
-  {% include head.html %}
+{% include head.html %}
 
   <body class="site">
 
-    {% if site.google_tag_manager %}
-
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
-
-    {% endif %}
-
     {% include lang_nav.html %}
 
-   
-
-    <div class="hero lazyload" data-bg="{{site.url}}/SloRaDe/assets/img/posts/{{page.foto}}">
-    
-
-        
-          <div class="hero__wrap">
-            <!-- <h1 class="hero__title">{{ page.title }}</h1> -->
-          </div>
-        
-      
+    <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/{{page.foto}}">        
+      <div class="hero__wrap">
+        <h1 class="hero__title">{{ page.title }}</h1>
+      </div>
     </div>  
-    <main class="site__content">
 
+    <main class="site__content">
       <div class="container">
         <div class="page-content">
-
-          {{ content }}
-
+            {{ content }}
         </div>
       </div>
-
     </main>
 
     {% include footer.html %}

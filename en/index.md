@@ -1,6 +1,6 @@
 ---
-layout: english
-title: Slovenska Računalniška Dediščina
+layout: default
+title: Slovenian computer heritage
 lang: en
 ---
 
