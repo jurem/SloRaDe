@@ -6,6 +6,7 @@ summary: Slovenian computers.
 featured-img: racunalniki
 categories: post-en
 permalink: en/computers
+herofoto: hero/racunalniki.jpg
 ---
 
 The following list contains descriptions of some of the most prominent computers that fall into the category of Slovene computer heritage. The descriptions contain some general facts about the computers, a few pictures, and certain other sources of information. They are also equipped with technical details interesting mostly for computer scientists.
@@ -21,7 +22,6 @@ The following list contains descriptions of some of the most prominent computers
 # Gorenje
 
  - [Gorenje Dialog](gorenje-dialog)
-
  - [Terminal Paka 2000](paka-2000)
  - [Terminal Paka 3000](paka-3000)
 

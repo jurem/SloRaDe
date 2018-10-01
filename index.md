@@ -6,4 +6,5 @@
 #
 layout: default
 title: Slovenska računalniška dediščina
+herofoto: hero/izdelava.jpg
 ---

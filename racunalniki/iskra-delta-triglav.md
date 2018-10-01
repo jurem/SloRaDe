@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Iskra Delta Triglav"
-foto: "id800.jpg"
+herofoto: "hero/chips.jpg"
 ---
 
 # Iskra Delta Triglav

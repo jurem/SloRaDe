@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "ID 800"
-foto: "id800.jpg"
+herofoto: "hero/chips.jpg"
 ---
 
 # Iskra Delta 800
 
-<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/ID800/id800_1.jpg">
+<img style="float: right; height: 30vh;" src="{{site.baseurl}}/assets/img/ID800/id800_1.jpg">
 
 <br>
 

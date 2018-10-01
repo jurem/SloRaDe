@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O projektu
-permalink: /oprojektu/
+herofoto: hero/izdelava.jpg
 ---
 
 # Cilj in aktivnosti

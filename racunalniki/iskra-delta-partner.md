@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Iskra Delta Partner"
+herofoto: "hero/chips.jpg"
 ---
 
 # Iskra Delta Partner

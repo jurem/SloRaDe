@@ -1,7 +1,8 @@
 ---
+lang: en
 layout: default
 title: Slovenian computer heritage
-lang: en
+herofoto: hero/izdelava.jpg
 ---
 
 

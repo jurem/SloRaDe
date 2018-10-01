@@ -2,7 +2,7 @@
 layout: page
 title: "Gorenje Dialog"
 categories: slo-page
-foto: gorenje.jpg
+herofoto: hero/gorenje.jpg
 ---
 
 # Gorenje Dialog

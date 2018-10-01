@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Elektrotehna"
-foto: elektrotehna.jpg
 categories: slo-page
 ---
 

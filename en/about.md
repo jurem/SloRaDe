@@ -3,6 +3,7 @@ lang: en
 layout: page
 title: About
 permalink: /en/about/
+herofoto: hero/izdelava.jpg
 ---
 
 # Our goal and activities

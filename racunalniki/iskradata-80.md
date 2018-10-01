@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Iskradata 80"
-foto: "../id80/id80_znacka.JPG"
+herofoto: "id80/id80_znacka.JPG"
 ---
 
 # Iskradata 80
 
-<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/id80/id80_naslov.jpg" >
+<img style="float: right; height: 30vh;" src="{{site.baseurl}}/assets/img/id80/id80_naslov.jpg" >
 
 <br>
 
@@ -25,7 +25,7 @@ foto: "../id80/id80_znacka.JPG"
 
 Iskradata 80, ali krajše ID80, je porazdeljeni računalniški sistem, ki ga je v letih 1979 in 1980 razvilo in proizvajalo podjetje Iskra TOZD Računalniki v Kranju, s sodelovanjem nemškega podjetja ADPS. ID80 je bil mikroračunalnik z modularno zasnovo, zato ga je bilo enostavno prilagoditi uporabnikovim zahtevam. Izšel je v nekaj različnih oblikah:
 
-<img style="float: right; height: 50vh;" src="{{site.url}}/SloRaDe/assets/img/id80/brosuraSICAD.jpg" >
+<img style="float: right; height: 50vh;" src="{{site.baseurl}}/assets/img/id80/brosuraSICAD.jpg" >
 
  - Iskradata 80-50 - Pisalnik, sistem s tiskalnikom
  - Iskradata 80-60 - Samostojno delovno mesto
@@ -43,7 +43,7 @@ Distribuirana obdelava je omogočala dostop do baze podatkov v drugem računalni
 
 Uporabljal je operacijski sistem IDOS ali CP/M in delal s programskima jezikoma Basic in Pascal. Matični računalnik je lahko bral do 4 diskovne enote, do velikosti 300 MB.
 
-<img style="height: 50vh;" src="{{site.url}}/SloRaDe/assets/img/id80/IskraData80wiki2007.jpg" >
+<img style="height: 50vh;" src="{{site.baseurl}}/assets/img/id80/IskraData80wiki2007.jpg" >
 
 
 ------
