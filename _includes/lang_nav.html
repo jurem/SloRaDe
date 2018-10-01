@@ -3,7 +3,7 @@
     <div class="header__inner">
       <a class="header__logo" href="{{ '/' | relative_url }}">
         <div class="header__logo--container">
-          <img src="{{ 'assets/img/triglav2.png' }}" height="100%"> 
+          <img src="{{site.baseurl}}/assets/img/triglav2.png" height="100%"> 
         </div>
       </a>
       <nav class="header__links">
@@ -15,7 +15,7 @@
           <a class="header__link" href="{{ '/' | relative_url }}" itemprop=="url"><span itemprop="name">Slovenščina</span></a>
     {% else %}
     <a class="header__link" href="{{ '/' | relative_url }}" itemprop="url"><span itemprop="name">Domov</span></a>
-          <a class="header__link" href="{{ '/about' | relative_url }}" itemprop="url"><span itemprop="name">O projektu</span></a>
+          <a class="header__link" href="{{ '/oprojektu' | relative_url }}" itemprop="url"><span itemprop="name">O projektu</span></a>
           <a class="header__link" href="{{ '/zahvale' | relative_url }}" itemprop="url"><span itemprop="name">Zahvale</span></a>
           <a class="header__link" href="{{ '/en' | relative_url }}" itemprop=="url"><span itemprop="name">English</span></a>
 	{% endif %}        
