@@ -3,7 +3,7 @@ layout: post
 title: "Slovenski računalniki"
 featured-img: racunalniki
 summary: Tukaj najdete kratke opise računalnikov, ki so jih načrtovali in izdelovali na Slovenskih tleh.
-categories: slo-post
+categories: post-si
 ---
 
 V spodnjem seznamu se nahaja nekaj opisov slovenskih računalnikov. Vsebujejo nekaj splošnih informacij in tudi slik ter ostalih virov. So pa opis pogosto opremljeni tudi s tehničnimi podrobnostmi, ki so zanimive predvsem za računalnikarje.

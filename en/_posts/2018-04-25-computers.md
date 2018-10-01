@@ -1,10 +1,10 @@
 ---
 lang: en
-layout: post-en
+layout: post
 title: "Computers"
 summary: Slovenian computers.
 featured-img: racunalniki
-categories: en-post
+categories: post-en
 permalink: en/computers
 ---
 

@@ -20,9 +20,15 @@ layout: compress
       <section class="blog">
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-            {% for post in site.categories.slo-post %}
-              {% include card.html %}
-            {% endfor %}
+            {% if page.lang == "en" %}
+              {% for post in site.categories.post-en %}
+                {% include card.html %}
+              {% endfor %}
+            {% else %}
+              {% for post in site.categories.post-si %}
+                {% include card.html %}
+              {% endfor %}
+            {% endif %}
             <!-- {% include pagination.html %} -->
           </div>
         </div>

@@ -3,7 +3,7 @@ layout: post
 title: "Intervjuji"
 featured-img: intervju
 summary: Intervjuji nekaterih sodelujočih pri nastajanju prvih slovenskih računalnikov.
-categories: slo-post
+categories: post-si
 ---
 
 # Intervjuji

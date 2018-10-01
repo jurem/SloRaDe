@@ -3,7 +3,6 @@ layout: page
 title: "Intervju: Nikolaj Zimic"
 featured-img: intervju
 summary: Intervju
-categories: slo-post
 ---
 
 

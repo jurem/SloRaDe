@@ -3,7 +3,6 @@ layout: page
 title: "Štefan Urankar"
 featured-img: intervju
 summary: Intervju
-categories: slo-post
 ---
 
 # Stefan Urankar

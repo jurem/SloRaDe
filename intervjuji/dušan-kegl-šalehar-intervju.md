@@ -3,7 +3,6 @@ layout: page
 title: "Intervju: Dušan Kegl Šalehar"
 featured-img: intervju
 summary: Intervju
-categories: slo-post
 ---
 
 # Intervju: Dušan Kegl Šalehar

@@ -3,7 +3,6 @@ layout: page
 title: "Tomaž Štebe"
 featured-img: intervju
 summary: Intervju
-categories: slo-post
 ---
 # Tomaž Štebe
 

@@ -3,7 +3,6 @@ layout: page
 title: "Intervju: Alojz Hudobivnik"
 featured-img: intervju
 summary: Intervju
-categories: slo-post
 ---
 
 # Intervju: Alojz Hudobivnik

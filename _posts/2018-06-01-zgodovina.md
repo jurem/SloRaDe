@@ -3,7 +3,7 @@ layout: post
 title: "Zgodovinski pregled"
 featured-img: zgodovina
 summary: V obliki več krajših člankov predstavimo zgodovinski pregled razvoja računalništva na področju Slovenije.
-categories: slo-post
+categories: post-si
 ---
 
 V spodnjem seznamu se nahaja več krajših člankov, v katerih opišemo naše razumevanje področja. Sestavili smo tudi nekaj seznamov kot je npr. kronologija dogodkov, primeri uporabe tehnologije ipd. Tematike, ki smo jih pregledali gotovo ne zajemajo celovito vsega, kar se je dogajalo v zgoraj omenjenih časih v Sloveniji, ampak predstavljajo predvsem področja, za katera smo tekom projekta uspeli pridobiti informacije, vire in drug material. Naše izhodišče je bilo predvsem dogajanje v zvezi z Iskro Delto, šele nato smo postopoma, tekom projekta, vključevali druge ravno tako izredno pomembne akterje.
