@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Emulator Dialoga"
+title: "Emulator računalnika Gorenje Dialog"
 featured-img: gorenje
-summary: Preizkusite lahko tudi emulator računalnika Gorenje Dialoga.
+summary: Preizkusite lahko tudi emulator računalnika Gorenje Dialog.
 categories: post-si
 herofoto: hero/gorenje.jpg
 ---
