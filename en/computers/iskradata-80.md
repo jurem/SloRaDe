@@ -6,7 +6,7 @@ herofoto: "id80/id80_znacka.JPG"
 
 # Iskradata 80
 
-<img style="float: right; height: 30vh;" src="{{site.url}}/SloRaDe/assets/img/id80/id80_naslov.jpg" >
+<img style="float: right; height: 30vh;" src="{{site.baseurl}}/assets/img/id80/id80_naslov.jpg" >
 
 <br>
 
@@ -25,7 +25,7 @@ herofoto: "id80/id80_znacka.JPG"
 
 The Iskradata 80, or ID80 for short, is a distributed computer system developed and manufactured in 1979 and 1980 by the Iskra Computers BOAL in Kranj, in cooperation with German company ADPS. ID80 was a microcomputer with a modular design which made it easily adaptable to the user’s demands. It was released in the following forms:
 
-<img style="float: right; height: 50vh;" src="{{site.url}}/SloRaDe/assets/img/id80/brosuraSICAD.jpg" >
+<img style="float: right; height: 50vh;" src="{{site.baseurl}}/assets/img/id80/brosuraSICAD.jpg" >
 
  - Iskradata 80-50 - Writer, system with printer
  - Iskradata 80-60 - Independent work station
@@ -38,7 +38,7 @@ The distributed processing enabled access to a database of another computer in t
 
 The computer used the IDOS or the CP/M operating system and ran on the Basic and Pascal computer languages. The registry computer could read up to 4 disc units up to 300 MB.
 
-<img style="height: 50vh;" src="{{site.url}}/SloRaDe/assets/img/id80/IskraData80wiki2007.jpg" >
+<img style="height: 50vh;" src="{{site.baseurl}}/assets/img/id80/IskraData80wiki2007.jpg" >
 
 
 ------

@@ -14,17 +14,17 @@ The Centre released a brochure featuring course descriptions and seminar program
 <br>Systems: Operating Systems, Communications, Apparatus Equipment, Input-Output Units, Computer Systems.
 <br>Other Skills: Economic and Juridical Skills, Management Politics and Organisation, Sociological Skills, The Work Environment, Live Languages, and Special Services.
 
-![picture 1](../assets/img/zgodovina/izob1.png)  
+![picture 1](site.baseurl}}/assets/img/zgodovina/izob1.png)  
 Picture 1: The Educational Centre in Nova Gorica
 
-![picture 2](../assets/img/zgodovina/izob2.png)  
+![picture 2](site.baseurl}}/assets/img/zgodovina/izob2.png)  
 Picture 2: The classroom used for practical lessons
 
-![picture 3](../assets/img/zgodovina/izob3.png)  
+![picture 3](site.baseurl}}/assets/img/zgodovina/izob3.png)  
 Picture 3: The classroom used for theoretical lessons
 
-![picture 4](../assets/img/zgodovina/izob4.png)  
+![picture 4](site.baseurl}}/assets/img/zgodovina/izob4.png)  
 Picture 4: The Delta Educational Centre hotel room
 
-![picture 5](../assets/img/zgodovina/izob5.png)  
+![picture 5](site.baseurl}}/assets/img/zgodovina/izob5.png)  
 Picture 5: Part of the Centre’s recreational section
