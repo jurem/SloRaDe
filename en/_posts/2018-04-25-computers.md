@@ -5,7 +5,7 @@ title: "Computers"
 summary: Slovenian computers.
 featured-img: racunalniki
 categories: post-en
-permalink: en/computers
+permalink: en/computers/
 herofoto: hero/racunalniki.jpg
 ---
 
