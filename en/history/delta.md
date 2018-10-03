@@ -31,5 +31,5 @@ successful and won over Tito’s affection which was instrumental in their survi
 following months. Soon after that same year Delta separated itself from Elektrotehna and
 instead started linking up with Iskra and Gorenje to form a company named Iskra Delta. 
 
-![Slika 1](site.baseurl}}/assets/img/zgodovina/delta1.png)  
+![Slika 1]({{site.baseurl}}/assets/img/zgodovina/delta1.png)  
 Picture 1: Delta računalniški sistemi (Delta Computer Systems)
