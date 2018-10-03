@@ -51,4 +51,4 @@ Sources:
 
 ------
 
- - [Back to computers]({{site.base}}/SloRaDe/computers)
+- [Back to computers]({{site.baseurl}}/en/computers)

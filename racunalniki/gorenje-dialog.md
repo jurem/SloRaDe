@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Gorenje Dialog"
-categories: slo-page
 herofoto: hero/gorenje.jpg
 ---
 

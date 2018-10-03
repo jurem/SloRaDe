@@ -28,3 +28,4 @@ The following list contains descriptions of some of the most prominent computers
 # Other
 
  - [Process Unit D8000 Prototype](D8000)
+ - [Lesser-known computers of Slovene origin](mz_rac)
