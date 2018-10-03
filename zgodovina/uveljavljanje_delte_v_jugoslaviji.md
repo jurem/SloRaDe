@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Primeri uporabe računalnikov"
+title: "Uveljavljanje Delte v Jugoslaviji"
 foto: primeri.jpg
 categories: slo-page
 ---

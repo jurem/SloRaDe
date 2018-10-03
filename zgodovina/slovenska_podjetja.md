@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Primeri uporabe računalnikov"
+title: "Slovenska podjetja"
 foto: primeri.jpg
 categories: slo-page
 ---

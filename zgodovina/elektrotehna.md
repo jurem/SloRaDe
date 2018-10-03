@@ -15,5 +15,5 @@ inštitutih, nato pa še naprave za upravljanje poslovnih procesov. V 1977 je od
 samostojno specializirano računalniško podjetje [Delta](../delta), ki je bilo takrat še vedno pod okvirom
 Elektrotehne.
 
-![Slika 1](../assets/img/zgodovina/elek1.png)  
+![Slika 1]({{site.baseurl}}/assets/img/zgodovina/elek1.png)  
 Slika 1: Reklamni plakat za podjetje Elektrotehna, tehnično trgovsko podjetje z elektrotehničnim materialom iz leta 1953.

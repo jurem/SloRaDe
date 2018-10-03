@@ -36,7 +36,7 @@ Planici, smučarska tekmovanja v Kranjski gori in Mariboru ter Zimska Univerzija
 Čehoslovaškem. Njihovo sodelovanje je pomenilo popolno informacijsko podporo, evidenco
 sodelujočih ter zbiranje in distribucijo rezultatov na različnih lokacijah.
 
-![slika 1](../assets/img/zgodovina/image1.png)  
+![slika 1]({{site.baseurl}}/assets/img/zgodovina/image1.png)  
 Slika 1: Fotografija z Zimske univerzijade na Češkoslovaškem, na kateri je opazen reklamni balon z logotipom Iskra Delta Computers.
 
 V času delovanju so svoje izdelke vestno predstavljali na Interbiro sejmih v Ljubljani in
@@ -49,7 +49,7 @@ Jugoslaviji, ki je ti dve državi tudi povezal. Vseeno pa je prišlo pri uresni�
 določenih zapletov. Sodelovanje Jugoslavije s Kitajsko je pritegnilo pozornost vzhodnih in
 kitajskih obveščevalnih služb.
 
-![slika 2](../assets/img/zgodovina/image2.png)
+![slika 2]({{site.baseurl}}/assets/img/zgodovina/image2.png)
 Slika 2: Razstavni prostor Iskre Delta na sejmu Interbiro.
 
 Konec leta 1986 se je Iskra Delta lahko pohvalila z dolgim seznamom proizvodov in uspešnih
@@ -63,10 +63,10 @@ leta 1988 v Jugoslavijo pošlje državno delegacijo s predsednikom Rajivom Gandh
 čelu. Tudi z njimi se Iskra Delta uspešno dogovori za sodelovanje in ustanovitev mešanega
 podjetja v Indiji.
 
-![slika 3](../assets/img/zgodovina/image3.jpeg)
+![slika 3]({{site.baseurl}}/assets/img/zgodovina/image3.jpeg)
 Slika 3: Reklamna fotografija za računalnik Partner.
 
-![slika 4](../assets/img/zgodovina/image4.jpeg)
+![slika 4]({{site.baseurl}}/assets/img/zgodovina/image4.jpeg)
 <br>
 Slika 4: Računalnik Triglav (Trident).
 
@@ -110,7 +110,7 @@ opremo. Ker Iskra Delta tega ne stori, začnejo sovjetski kupci spremenjene pred
 uporabljati kot izgovor, da že dobavljenih računalnikov ne plačajo v dogovorjenem roku, to
 pa povzroči začetek nepremostljivih finančnih ovir za podjetje.
 
-![slika 5](../assets/img/zgodovina/image5.png)  <p>
+![slika 5]({{site.baseurl}}/assets/img/zgodovina/image5.png)  <p>
 Slika 5: Fotografija predstavništva Iskre Delta in Mihail Gorbačov, ki si je prišel ogledat Deltine računalnike.
 
 ### Propad Iskre Delte
@@ -171,8 +171,8 @@ Damjan Žemva. Skupaj so pokomentirali, zakaj je prišlo do nenadnega propada po
 nikoli povsem pojasnjenih okoliščinah.
 https://val202.rtvslo.si/2016/06/frekvenca-x-40/
 
-![Slika 6](../assets/img/zgodovina/idc1.png)  
+![Slika 6]({{site.baseurl}}/assets/img/zgodovina/idc1.png)  
 Slika 6: logotip podjetja Iskra Delta (IDC – Iskra Delta Computers).
 
 ------
-[Nazaj na pregled zgodovine]({{site.base}}/SloRaDe/zgodovina)
+[Nazaj na pregled zgodovine]({{site.baseurl}}/zgodovina)
