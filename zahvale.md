@@ -28,4 +28,4 @@ Izvedba projekta ne bi bila mogoča brez pomoči posameznikov, ki so se odzvali 
 - Dr. Gašerju Fele Žoržu za raznovrstno tehnično pomoč.
 - Antonu Žvanutu za vse informacije o projektu D8000, drugih projektih Iskre Delte in industriji v tistem času.
 - Fakultetnim službam FRI za pomoč pri izpeljavi projekta.
-- in vsem drugim, ki smo kakorkoli pomagali.
+- in vsem drugim, ki so kakorkoli pomagali.
