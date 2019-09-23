@@ -49,4 +49,22 @@ Viri:
 
 ------
 
+Še nekaj podatkov, ki jih je po izvedbi projekta priskrbel Jože Stepan.
+
+- Proizvajalec: ISKRA DELTA
+- Ime računalnika: Delta 800
+- Začetek proizvodnje: 1984
+- Dolžina besede: 16 bit
+- Procesor: predelani procesorski plošči računalnika DIGITAL PDP 11/34A, M8265 in M8266 ali kompatibilni enoploščni procesor D 800 domačega razvoja in proizvodnje.
+- Predpomnilnik (cashe): statični 2kbyte – opcija, DEC M8268
+- Memory management: RUP modul (IDC razvoj in proizvodnja) in MPC modul za pariteto (IDC razvoj in proizvodnja)
+- RAM: dinamični – max. 4M byte. Tuji moduli ali moduli MPE256 – domač razvoj in proizvodnja.
+- BOOT ROM : DEC M9312, ali TBC modul domače proizvodnje. Vsebuje konzolni emulator s testom 1kx4 ROM in max. 4 kosi 512X4bit ROM. Vsak za svoj tip  periferne enote (floppy drive, tračna enota, diskovna enota itd.) če je bila vgrajena.
+- Komunikacija: RS232 (20 mA zanka) vmesniki za komunikacijo z videoterminali in tiskalniki (AVD16, AVD004, AVD001-vse domači razvoj in proizvodnja), LTV002 paralelni vmesnik za delo z linijskimi tiskalniki (domač razvoj in proizvodnja), ter ostali moduli kompatibilni z UNIBUS vodilom - paralelni i/o vmesniki, DAQ vmesniki itd.
+- Tračna enota: TSC kontroler, domač razvoj in proizvodnja. Enote proizvajalca Cipher.
+- Diskovna enota: BP01 kontroler. Diski Fujitsu, največ 4 enote.
+- Operacijski sistem: Delta-M
+
+------
+
 [Nazaj na pregled računalnikov]({{site.base}}/SloRaDe/racunalniki)
